@@ -1,0 +1,6 @@
+Peat's target,Rule,Classic,Late
+"Protein at least 70–100 g/day, up to 150 g/day (classic) or ~50 g/day (late)",P01–P07,Yes,Yes
+"Calcium ≥ 1,500 mg/day",C01,Yes,No
+Phosphorus ≤ 2 × calcium,C03,Yes,Yes
+Polyunsaturated fat as low as practicable (no number given); % energy shown,O05,1.6 / 2.5,0.6 / 1.1
+Carbohydrate 400–600 g/day (late),S06,n/a,Database-dependent

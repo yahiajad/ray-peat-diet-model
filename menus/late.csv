@@ -1,0 +1,113 @@
+day,meal,food,food_key,fdc_id,grams,is_juice,rule_id,note
+1,all,milk1,F005614,172205,500.0,0,M07,ASSUME: 'somewhat limit'
+1,all,oj,F004739,169098,1967.7,1,S06,OJ (+grape juice not in AFCD)
+1,all,sugar,F008976,169655,120.0,0,S06;P06b,ASSUME: to reach ~400 g carb
+1,breakfast,egg_fried,F003718,173423,55.0,0,M07,1 egg
+1,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME
+1,dinner,gelatin,F004196,169599,5.0,0,G01,ASSUME
+1,snack,carrot_raw,F002276,170393,100.0,0,K01,
+1,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME
+1,snack,vinegar,F009498,173469,5.0,0,K02,ASSUME
+1,dinner,mushroom,F005946,169252,100.0,0,K05,
+1,dinner,potato_boiled,F007320,170440,300.0,0,S06,very well-cooked veg
+1,dinner,butter,F001973,173410,5.0,0,T02,ASSUME
+1,all,coffee,F003065,171890,800.0,0,F01,
+1,all,mango,F005299,169910,300.0,0,S07,ASSUME
+1,all,salt,F007879,173468,5.0,0,N01,ASSUME
+2,all,milk1,F005614,172205,500.0,0,M07,ASSUME: 'somewhat limit'
+2,all,oj,F004739,169098,1967.7,1,S06,OJ (+grape juice not in AFCD)
+2,all,sugar,F008976,169655,120.0,0,S06;P06b,ASSUME: to reach ~400 g carb
+2,breakfast,egg_fried,F003718,173423,55.0,0,M07,1 egg
+2,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME
+2,dinner,gelatin,F004196,169599,5.0,0,G01,ASSUME
+2,snack,carrot_raw,F002276,170393,100.0,0,K01,
+2,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME
+2,snack,vinegar,F009498,173469,5.0,0,K02,ASSUME
+2,dinner,mushroom,F005946,169252,100.0,0,K05,
+2,dinner,potato_boiled,F007320,170440,300.0,0,S06,very well-cooked veg
+2,dinner,butter,F001973,173410,5.0,0,T02,ASSUME
+2,all,coffee,F003065,171890,800.0,0,F01,
+2,all,pineapple,F006702,169124,300.0,0,S07,ASSUME
+2,all,salt,F007879,173468,5.0,0,N01,ASSUME
+3,all,milk1,F005614,172205,500.0,0,M07,ASSUME: 'somewhat limit'
+3,all,oj,F004739,169098,1967.7,1,S06,OJ (+grape juice not in AFCD)
+3,all,sugar,F008976,169655,120.0,0,S06;P06b,ASSUME: to reach ~400 g carb
+3,breakfast,egg_fried,F003718,173423,55.0,0,M07,1 egg
+3,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME
+3,dinner,gelatin,F004196,169599,5.0,0,G01,ASSUME
+3,snack,carrot_raw,F002276,170393,100.0,0,K01,
+3,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME
+3,snack,vinegar,F009498,173469,5.0,0,K02,ASSUME
+3,dinner,mushroom,F005946,169252,100.0,0,K05,
+3,dinner,potato_boiled,F007320,170440,300.0,0,S06,very well-cooked veg
+3,dinner,butter,F001973,173410,5.0,0,T02,ASSUME
+3,all,coffee,F003065,171890,800.0,0,F01,
+3,all,watermelon,F005520,167765,300.0,0,S07,ASSUME
+3,all,salt,F007879,173468,5.0,0,N01,ASSUME
+4,all,milk1,F005614,172205,500.0,0,M07,ASSUME: 'somewhat limit'
+4,all,oj,F004739,169098,1967.7,1,S06,OJ (+grape juice not in AFCD)
+4,all,sugar,F008976,169655,120.0,0,S06;P06b,ASSUME: to reach ~400 g carb
+4,breakfast,egg_fried,F003718,173423,55.0,0,M07,1 egg
+4,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME
+4,dinner,gelatin,F004196,169599,5.0,0,G01,ASSUME
+4,snack,carrot_raw,F002276,170393,100.0,0,K01,
+4,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME
+4,snack,vinegar,F009498,173469,5.0,0,K02,ASSUME
+4,dinner,mushroom,F005946,169252,100.0,0,K05,
+4,dinner,potato_boiled,F007320,170440,300.0,0,S06,very well-cooked veg
+4,dinner,butter,F001973,173410,5.0,0,T02,ASSUME
+4,all,coffee,F003065,171890,800.0,0,F01,
+4,all,papaya,F006528,169926,300.0,0,S07,ASSUME
+4,all,salt,F007879,173468,5.0,0,N01,ASSUME
+5,all,milk1,F005614,172205,500.0,0,M07,ASSUME: 'somewhat limit'
+5,all,oj,F004739,169098,1967.7,1,S06,OJ (+grape juice not in AFCD)
+5,all,sugar,F008976,169655,120.0,0,S06;P06b,ASSUME: to reach ~400 g carb
+5,breakfast,egg_fried,F003718,173423,55.0,0,M07,1 egg
+5,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME
+5,dinner,gelatin,F004196,169599,5.0,0,G01,ASSUME
+5,snack,carrot_raw,F002276,170393,100.0,0,K01,
+5,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME
+5,snack,vinegar,F009498,173469,5.0,0,K02,ASSUME
+5,dinner,mushroom,F005946,169252,100.0,0,K05,
+5,dinner,potato_boiled,F007320,170440,300.0,0,S06,very well-cooked veg
+5,dinner,butter,F001973,173410,5.0,0,T02,ASSUME
+5,all,coffee,F003065,171890,800.0,0,F01,
+5,all,cherry,F002522,171719,300.0,0,S07,ASSUME
+5,all,salt,F007879,173468,5.0,0,N01,ASSUME
+6,all,milk1,F005614,172205,500.0,0,M07,ASSUME: 'somewhat limit'
+6,all,oj,F004739,169098,1967.7,1,S06,OJ (+grape juice not in AFCD)
+6,all,sugar,F008976,169655,120.0,0,S06;P06b,ASSUME: to reach ~400 g carb
+6,breakfast,egg_fried,F003718,173423,55.0,0,M07,1 egg
+6,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME
+6,dinner,gelatin,F004196,169599,5.0,0,G01,ASSUME
+6,snack,carrot_raw,F002276,170393,100.0,0,K01,
+6,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME
+6,snack,vinegar,F009498,173469,5.0,0,K02,ASSUME
+6,dinner,mushroom,F005946,169252,100.0,0,K05,
+6,dinner,potato_boiled,F007320,170440,300.0,0,S06,very well-cooked veg
+6,dinner,butter,F001973,173410,5.0,0,T02,ASSUME
+6,all,coffee,F003065,171890,800.0,0,F01,
+6,all,grape,F004260,174683,300.0,0,S07,ASSUME
+6,all,salt,F007879,173468,5.0,0,N01,ASSUME
+7,all,milk1,F005614,172205,500.0,0,M07,ASSUME: 'somewhat limit'
+7,all,oj,F004739,169098,1967.7,1,S06,OJ (+grape juice not in AFCD)
+7,all,sugar,F008976,169655,120.0,0,S06;P06b,ASSUME: to reach ~400 g carb
+7,breakfast,egg_fried,F003718,173423,55.0,0,M07,1 egg
+7,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME
+7,dinner,gelatin,F004196,169599,5.0,0,G01,ASSUME
+7,snack,carrot_raw,F002276,170393,100.0,0,K01,
+7,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME
+7,snack,vinegar,F009498,173469,5.0,0,K02,ASSUME
+7,dinner,mushroom,F005946,169252,100.0,0,K05,
+7,dinner,potato_boiled,F007320,170440,300.0,0,S06,very well-cooked veg
+7,dinner,butter,F001973,173410,5.0,0,T02,ASSUME
+7,all,coffee,F003065,171890,800.0,0,F01,
+7,all,mango,F005299,169910,300.0,0,S07,ASSUME
+7,all,salt,F007879,173468,5.0,0,N01,ASSUME
+1,all,sugar,F008976,169655,179.3,0,S06;S01,ASSUME: sucrose top-up to EER
+2,all,sugar,F008976,169655,190.4,0,S06;S01,ASSUME: sucrose top-up to EER
+3,all,sugar,F008976,169655,196.9,0,S06;S01,ASSUME: sucrose top-up to EER
+4,all,sugar,F008976,169655,190.0,0,S06;S01,ASSUME: sucrose top-up to EER
+5,all,sugar,F008976,169655,163.6,0,S06;S01,ASSUME: sucrose top-up to EER
+6,all,sugar,F008976,169655,169.4,0,S06;S01,ASSUME: sucrose top-up to EER
+7,all,sugar,F008976,169655,179.3,0,S06;S01,ASSUME: sucrose top-up to EER

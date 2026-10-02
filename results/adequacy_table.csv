@@ -1,0 +1,817 @@
+scenario,db,sex,nutrient,mean,ref,ref_kind,pct_ref,below_ref,ul,mean_over_ul,days_over_ul
+classic,afcd,M,protein_g,144.58,52.0,EAR,278.0,False,,False,
+classic,afcd,M,fibre_g,14.07,30.0,AI,47.0,True,,False,
+classic,afcd,M,la_g,3.0,13.0,AI,23.0,True,,False,
+classic,afcd,M,ala_g,0.61,1.3,AI,47.0,True,,False,
+classic,afcd,M,lcn3_mg,364.98,160.0,AI,228.0,False,,False,
+classic,afcd,M,b1_mg,1.61,1.0,EAR,161.0,False,,False,
+classic,afcd,M,b2_mg,5.28,1.1,EAR,480.0,False,,False,
+classic,afcd,M,niacin_ne_mg,66.43,12.0,EAR,554.0,False,,False,
+classic,afcd,M,b6_mg,0.7,1.1,EAR,64.0,True,,False,
+classic,afcd,M,b12_ug,28.47,2.0,EAR,1424.0,False,,False,
+classic,afcd,M,folate_dfe_ug,984.56,320.0,EAR,308.0,False,,False,
+classic,afcd,M,b5_mg,16.68,6.0,AI,278.0,False,,False,
+classic,afcd,M,vita_rae_ug,9921.11,625.0,EAR,1587.0,False,,False,
+classic,afcd,M,vitc_mg,631.2,30.0,EAR,2104.0,False,,False,
+classic,afcd,M,vitd_ug,11.63,5.0,AI,233.0,False,80.0,False,0.0
+classic,afcd,M,vite_mg,4.81,10.0,AI,48.0,True,,False,
+classic,afcd,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic,afcd,M,choline_mg,926.38,550.0,AI,168.0,False,3500.0,False,0.0
+classic,afcd,M,ca_mg,2843.3,840.0,EAR,338.0,False,2500.0,True,7.0
+classic,afcd,M,p_mg,2982.66,580.0,EAR,514.0,False,4000.0,False,0.0
+classic,afcd,M,mg_mg,482.19,350.0,EAR,138.0,False,,False,
+classic,afcd,M,fe_mg,10.04,6.0,EAR,167.0,False,45.0,False,0.0
+classic,afcd,M,zn_mg,20.32,12.0,EAR,169.0,False,40.0,False,0.0
+classic,afcd,M,i_ug,620.95,100.0,EAR,621.0,False,1100.0,False,0.0
+classic,afcd,M,se_ug,102.78,60.0,EAR,171.0,False,400.0,False,0.0
+classic,afcd,M,cu_mg,3.8,1.7,AI,224.0,False,10.0,False,1.0
+classic,afcd,M,mn_mg,5.04,5.5,AI,92.0,True,,False,
+classic,afcd,M,k_mg,7506.41,3800.0,AI,198.0,False,,False,
+classic,afcd,,retinol_ug,8146.254285714286,,,,,3000.0,True,1.0
+classic,afcd,,pufa_pctE,1.63,,Peat: as low as possible,,,,,
+classic,afcd,,ca_p_ratio,0.96,0.5,Peat C03: P <= 2x Ca,,,,,
+classic,afcd,,free_sugars_pctE,18.27,10.0,WHO < 10% E,,,,,
+classic,afcd,,protein_pctE,24.66,25.0,AMDR 15-25% E,,,,,
+classic,afcd,,kcal,2381.04,2629.0630975143404,EER M 31-50,,,,,
+classic_chickenliver,afcd,M,protein_g,144.26,52.0,EAR,277.0,False,,False,
+classic_chickenliver,afcd,M,fibre_g,14.07,30.0,AI,47.0,True,,False,
+classic_chickenliver,afcd,M,la_g,3.02,13.0,AI,23.0,True,,False,
+classic_chickenliver,afcd,M,ala_g,0.5,1.3,AI,38.0,True,,False,
+classic_chickenliver,afcd,M,lcn3_mg,245.5,160.0,AI,153.0,False,,False,
+classic_chickenliver,afcd,M,b1_mg,1.61,1.0,EAR,161.0,False,,False,
+classic_chickenliver,afcd,M,b2_mg,4.65,1.1,EAR,423.0,False,,False,
+classic_chickenliver,afcd,M,niacin_ne_mg,65.28,12.0,EAR,544.0,False,,False,
+classic_chickenliver,afcd,M,b6_mg,0.76,1.1,EAR,69.0,True,,False,
+classic_chickenliver,afcd,M,b12_ug,13.73,2.0,EAR,686.0,False,,False,
+classic_chickenliver,afcd,M,folate_dfe_ug,1174.96,320.0,EAR,367.0,False,,False,
+classic_chickenliver,afcd,M,b5_mg,16.43,6.0,AI,274.0,False,,False,
+classic_chickenliver,afcd,M,vita_rae_ug,4995.72,625.0,EAR,799.0,False,,False,
+classic_chickenliver,afcd,M,vitc_mg,629.74,30.0,EAR,2099.0,False,,False,
+classic_chickenliver,afcd,M,vitd_ug,11.13,5.0,AI,223.0,False,80.0,False,0.0
+classic_chickenliver,afcd,M,vite_mg,4.92,10.0,AI,49.0,True,,False,
+classic_chickenliver,afcd,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic_chickenliver,afcd,M,choline_mg,1005.75,550.0,AI,183.0,False,3500.0,False,0.0
+classic_chickenliver,afcd,M,ca_mg,2843.3,840.0,EAR,338.0,False,2500.0,True,7.0
+classic_chickenliver,afcd,M,p_mg,2963.71,580.0,EAR,511.0,False,4000.0,False,0.0
+classic_chickenliver,afcd,M,mg_mg,481.95,350.0,EAR,138.0,False,,False,
+classic_chickenliver,afcd,M,fe_mg,10.06,6.0,EAR,168.0,False,45.0,False,0.0
+classic_chickenliver,afcd,M,zn_mg,20.14,12.0,EAR,168.0,False,40.0,False,0.0
+classic_chickenliver,afcd,M,i_ug,619.84,100.0,EAR,620.0,False,1100.0,False,0.0
+classic_chickenliver,afcd,M,se_ug,107.22,60.0,EAR,179.0,False,400.0,False,0.0
+classic_chickenliver,afcd,M,cu_mg,1.95,1.7,AI,115.0,False,10.0,False,0.0
+classic_chickenliver,afcd,M,mn_mg,5.08,5.5,AI,92.0,True,,False,
+classic_chickenliver,afcd,M,k_mg,7483.1,3800.0,AI,197.0,False,,False,
+classic_chickenliver,afcd,,retinol_ug,3220.868571428572,,,,,3000.0,True,1.0
+classic_chickenliver,afcd,,pufa_pctE,1.57,,Peat: as low as possible,,,,,
+classic_chickenliver,afcd,,ca_p_ratio,0.96,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_chickenliver,afcd,,free_sugars_pctE,18.28,10.0,WHO < 10% E,,,,,
+classic_chickenliver,afcd,,protein_pctE,24.63,25.0,AMDR 15-25% E,,,,,
+classic_chickenliver,afcd,,kcal,2378.6,2629.0630975143404,EER M 31-50,,,,,
+classic_chickenliver,usda,M,protein_g,141.26,52.0,EAR,272.0,False,,False,
+classic_chickenliver,usda,M,fibre_g,13.34,30.0,AI,44.0,True,,False,
+classic_chickenliver,usda,M,la_g,6.22,13.0,AI,48.0,True,,False,
+classic_chickenliver,usda,M,ala_g,0.62,1.3,AI,48.0,True,,False,
+classic_chickenliver,usda,M,lcn3_mg,175.49,160.0,AI,110.0,False,,False,
+classic_chickenliver,usda,M,b1_mg,2.36,1.0,EAR,236.0,False,,False,
+classic_chickenliver,usda,M,b2_mg,6.4,1.1,EAR,582.0,False,,False,
+classic_chickenliver,usda,M,niacin_ne_mg,50.14,12.0,EAR,418.0,False,,False,
+classic_chickenliver,usda,M,b6_mg,2.93,1.1,EAR,266.0,False,,False,
+classic_chickenliver,usda,M,b12_ug,19.37,2.0,EAR,968.0,False,,False,
+classic_chickenliver,usda,M,folate_dfe_ug,722.93,320.0,EAR,226.0,False,,False,
+classic_chickenliver,usda,M,b5_mg,19.17,6.0,AI,320.0,False,,False,
+classic_chickenliver,usda,M,vita_rae_ug,3040.63,625.0,EAR,487.0,False,,False,
+classic_chickenliver,usda,M,vitc_mg,578.24,30.0,EAR,1927.0,False,,False,
+classic_chickenliver,usda,M,vitd_ug,3.09,5.0,AI,62.0,True,80.0,False,0.0
+classic_chickenliver,usda,M,vite_mg,5.41,10.0,AI,54.0,True,,False,
+classic_chickenliver,usda,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic_chickenliver,usda,M,choline_mg,1005.75,550.0,AI,183.0,False,3500.0,False,0.0
+classic_chickenliver,usda,M,ca_mg,2941.15,840.0,EAR,350.0,False,2500.0,True,7.0
+classic_chickenliver,usda,M,p_mg,2946.88,580.0,EAR,508.0,False,4000.0,False,0.0
+classic_chickenliver,usda,M,mg_mg,490.9,350.0,EAR,140.0,False,,False,
+classic_chickenliver,usda,M,fe_mg,12.88,6.0,EAR,215.0,False,45.0,False,0.0
+classic_chickenliver,usda,M,zn_mg,24.98,12.0,EAR,208.0,False,40.0,False,1.0
+classic_chickenliver,usda,M,i_ug,619.84,100.0,EAR,620.0,False,1100.0,False,0.0
+classic_chickenliver,usda,M,se_ug,166.83,60.0,EAR,278.0,False,400.0,False,0.0
+classic_chickenliver,usda,M,cu_mg,2.57,1.7,AI,151.0,False,10.0,False,0.0
+classic_chickenliver,usda,M,mn_mg,1.71,5.5,AI,31.0,True,,False,
+classic_chickenliver,usda,M,k_mg,7304.36,3800.0,AI,192.0,False,,False,
+classic_chickenliver,usda,,retinol_ug,2024.1299999999999,,,,,3000.0,False,1.0
+classic_chickenliver,usda,,pufa_pctE,2.49,,Peat: as low as possible,,,,,
+classic_chickenliver,usda,,ca_p_ratio,1.0,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_chickenliver,usda,,free_sugars_pctE,18.12,10.0,WHO < 10% E,,,,,
+classic_chickenliver,usda,,protein_pctE,20.82,25.0,AMDR 15-25% E,,,,,
+classic_chickenliver,usda,,kcal,2753.08,2629.0630975143404,EER M 31-50,,,,,
+classic_greens,afcd,M,protein_g,147.88,52.0,EAR,284.0,False,,False,
+classic_greens,afcd,M,fibre_g,19.27,30.0,AI,64.0,True,,False,
+classic_greens,afcd,M,la_g,3.0,13.0,AI,23.0,True,,False,
+classic_greens,afcd,M,ala_g,0.61,1.3,AI,47.0,True,,False,
+classic_greens,afcd,M,lcn3_mg,364.98,160.0,AI,228.0,False,,False,
+classic_greens,afcd,M,b1_mg,1.66,1.0,EAR,166.0,False,,False,
+classic_greens,afcd,M,b2_mg,5.39,1.1,EAR,490.0,False,,False,
+classic_greens,afcd,M,niacin_ne_mg,67.52,12.0,EAR,563.0,False,,False,
+classic_greens,afcd,M,b6_mg,0.96,1.1,EAR,87.0,True,,False,
+classic_greens,afcd,M,b12_ug,28.47,2.0,EAR,1424.0,False,,False,
+classic_greens,afcd,M,folate_dfe_ug,1109.56,320.0,EAR,347.0,False,,False,
+classic_greens,afcd,M,b5_mg,16.99,6.0,AI,283.0,False,,False,
+classic_greens,afcd,M,vita_rae_ug,10113.11,625.0,EAR,1618.0,False,,False,
+classic_greens,afcd,M,vitc_mg,719.2,30.0,EAR,2397.0,False,,False,
+classic_greens,afcd,M,vitd_ug,11.63,5.0,AI,233.0,False,80.0,False,0.0
+classic_greens,afcd,M,vite_mg,5.81,10.0,AI,58.0,True,,False,
+classic_greens,afcd,M,vitk_ug,459.18,70.0,AI,656.0,False,,False,
+classic_greens,afcd,M,choline_mg,926.78,550.0,AI,169.0,False,3500.0,False,0.0
+classic_greens,afcd,M,ca_mg,3058.3,840.0,EAR,364.0,False,2500.0,True,7.0
+classic_greens,afcd,M,p_mg,3050.66,580.0,EAR,526.0,False,4000.0,False,0.0
+classic_greens,afcd,M,mg_mg,527.19,350.0,EAR,151.0,False,,False,
+classic_greens,afcd,M,fe_mg,11.54,6.0,EAR,192.0,False,45.0,False,0.0
+classic_greens,afcd,M,zn_mg,20.72,12.0,EAR,173.0,False,40.0,False,0.0
+classic_greens,afcd,M,i_ug,627.65,100.0,EAR,628.0,False,1100.0,False,0.0
+classic_greens,afcd,M,se_ug,102.78,60.0,EAR,171.0,False,400.0,False,0.0
+classic_greens,afcd,M,cu_mg,4.2,1.7,AI,247.0,False,10.0,False,1.0
+classic_greens,afcd,M,mn_mg,5.74,5.5,AI,104.0,False,,False,
+classic_greens,afcd,M,k_mg,7941.41,3800.0,AI,209.0,False,,False,
+classic_greens,afcd,,retinol_ug,8146.254285714286,,,,,3000.0,True,1.0
+classic_greens,afcd,,pufa_pctE,1.61,,Peat: as low as possible,,,,,
+classic_greens,afcd,,ca_p_ratio,1.01,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_greens,afcd,,free_sugars_pctE,18.07,10.0,WHO < 10% E,,,,,
+classic_greens,afcd,,protein_pctE,24.96,25.0,AMDR 15-25% E,,,,,
+classic_greens,afcd,,kcal,2406.61,2629.0630975143404,EER M 31-50,,,,,
+classic_greens,usda,M,protein_g,145.37,52.0,EAR,280.0,False,,False,
+classic_greens,usda,M,fibre_g,17.34,30.0,AI,58.0,True,,False,
+classic_greens,usda,M,la_g,6.64,13.0,AI,51.0,True,,False,
+classic_greens,usda,M,ala_g,1.02,1.3,AI,78.0,True,,False,
+classic_greens,usda,M,lcn3_mg,175.49,160.0,AI,110.0,False,,False,
+classic_greens,usda,M,b1_mg,2.41,1.0,EAR,241.0,False,,False,
+classic_greens,usda,M,b2_mg,6.96,1.1,EAR,633.0,False,,False,
+classic_greens,usda,M,niacin_ne_mg,51.13,12.0,EAR,426.0,False,,False,
+classic_greens,usda,M,b6_mg,2.9,1.1,EAR,264.0,False,,False,
+classic_greens,usda,M,b12_ug,32.82,2.0,EAR,1641.0,False,,False,
+classic_greens,usda,M,folate_dfe_ug,669.66,320.0,EAR,209.0,False,,False,
+classic_greens,usda,M,b5_mg,18.28,6.0,AI,305.0,False,,False,
+classic_greens,usda,M,vita_rae_ug,3962.56,625.0,EAR,634.0,False,,False,
+classic_greens,usda,M,vitc_mg,596.35,30.0,EAR,1988.0,False,,False,
+classic_greens,usda,M,vitd_ug,3.09,5.0,AI,62.0,True,80.0,False,0.0
+classic_greens,usda,M,vite_mg,6.83,10.0,AI,68.0,True,,False,
+classic_greens,usda,M,vitk_ug,459.18,70.0,AI,656.0,False,,False,
+classic_greens,usda,M,choline_mg,926.78,550.0,AI,169.0,False,3500.0,False,0.0
+classic_greens,usda,M,ca_mg,3090.66,840.0,EAR,368.0,False,2500.0,True,7.0
+classic_greens,usda,M,p_mg,2983.54,580.0,EAR,514.0,False,4000.0,False,0.0
+classic_greens,usda,M,mg_mg,514.69,350.0,EAR,147.0,False,,False,
+classic_greens,usda,M,fe_mg,12.6,6.0,EAR,210.0,False,45.0,False,0.0
+classic_greens,usda,M,zn_mg,26.2,12.0,EAR,218.0,False,40.0,False,1.0
+classic_greens,usda,M,i_ug,627.65,100.0,EAR,628.0,False,1100.0,False,0.0
+classic_greens,usda,M,se_ug,173.37,60.0,EAR,289.0,False,400.0,False,0.0
+classic_greens,usda,M,cu_mg,4.22,1.7,AI,248.0,False,10.0,False,1.0
+classic_greens,usda,M,mn_mg,2.29,5.5,AI,42.0,True,,False,
+classic_greens,usda,M,k_mg,7425.53,3800.0,AI,195.0,False,,False,
+classic_greens,usda,,retinol_ug,2800.787142857144,,,,,3000.0,False,1.0
+classic_greens,usda,,pufa_pctE,2.66,,Peat: as low as possible,,,,,
+classic_greens,usda,,ca_p_ratio,1.04,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_greens,usda,,free_sugars_pctE,17.82,10.0,WHO < 10% E,,,,,
+classic_greens,usda,,protein_pctE,21.05,25.0,AMDR 15-25% E,,,,,
+classic_greens,usda,,kcal,2800.72,2629.0630975143404,EER M 31-50,,,,,
+classic_iodised,afcd,M,protein_g,144.58,52.0,EAR,278.0,False,,False,
+classic_iodised,afcd,M,fibre_g,14.07,30.0,AI,47.0,True,,False,
+classic_iodised,afcd,M,la_g,3.0,13.0,AI,23.0,True,,False,
+classic_iodised,afcd,M,ala_g,0.61,1.3,AI,47.0,True,,False,
+classic_iodised,afcd,M,lcn3_mg,364.98,160.0,AI,228.0,False,,False,
+classic_iodised,afcd,M,b1_mg,1.61,1.0,EAR,161.0,False,,False,
+classic_iodised,afcd,M,b2_mg,5.28,1.1,EAR,480.0,False,,False,
+classic_iodised,afcd,M,niacin_ne_mg,66.43,12.0,EAR,554.0,False,,False,
+classic_iodised,afcd,M,b6_mg,0.7,1.1,EAR,64.0,True,,False,
+classic_iodised,afcd,M,b12_ug,28.47,2.0,EAR,1424.0,False,,False,
+classic_iodised,afcd,M,folate_dfe_ug,984.56,320.0,EAR,308.0,False,,False,
+classic_iodised,afcd,M,b5_mg,16.68,6.0,AI,278.0,False,,False,
+classic_iodised,afcd,M,vita_rae_ug,9921.11,625.0,EAR,1587.0,False,,False,
+classic_iodised,afcd,M,vitc_mg,631.2,30.0,EAR,2104.0,False,,False,
+classic_iodised,afcd,M,vitd_ug,11.63,5.0,AI,233.0,False,80.0,False,0.0
+classic_iodised,afcd,M,vite_mg,4.81,10.0,AI,48.0,True,,False,
+classic_iodised,afcd,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic_iodised,afcd,M,choline_mg,926.38,550.0,AI,168.0,False,3500.0,False,0.0
+classic_iodised,afcd,M,ca_mg,2843.3,840.0,EAR,338.0,False,2500.0,True,7.0
+classic_iodised,afcd,M,p_mg,2982.66,580.0,EAR,514.0,False,4000.0,False,0.0
+classic_iodised,afcd,M,mg_mg,482.19,350.0,EAR,138.0,False,,False,
+classic_iodised,afcd,M,fe_mg,10.04,6.0,EAR,167.0,False,45.0,False,0.0
+classic_iodised,afcd,M,zn_mg,20.32,12.0,EAR,169.0,False,40.0,False,0.0
+classic_iodised,afcd,M,i_ug,839.96,100.0,EAR,840.0,False,1100.0,False,0.0
+classic_iodised,afcd,M,se_ug,102.74,60.0,EAR,171.0,False,400.0,False,0.0
+classic_iodised,afcd,M,cu_mg,3.8,1.7,AI,224.0,False,10.0,False,1.0
+classic_iodised,afcd,M,mn_mg,5.04,5.5,AI,92.0,True,,False,
+classic_iodised,afcd,M,k_mg,7510.46,3800.0,AI,198.0,False,,False,
+classic_iodised,afcd,,retinol_ug,8146.254285714286,,,,,3000.0,True,1.0
+classic_iodised,afcd,,pufa_pctE,1.63,,Peat: as low as possible,,,,,
+classic_iodised,afcd,,ca_p_ratio,0.96,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_iodised,afcd,,free_sugars_pctE,18.27,10.0,WHO < 10% E,,,,,
+classic_iodised,afcd,,protein_pctE,24.66,25.0,AMDR 15-25% E,,,,,
+classic_iodised,afcd,,kcal,2381.04,2629.0630975143404,EER M 31-50,,,,,
+classic_iodised,usda,M,protein_g,142.43,52.0,EAR,274.0,False,,False,
+classic_iodised,usda,M,fibre_g,13.34,30.0,AI,44.0,True,,False,
+classic_iodised,usda,M,la_g,6.36,13.0,AI,49.0,True,,False,
+classic_iodised,usda,M,ala_g,0.65,1.3,AI,50.0,True,,False,
+classic_iodised,usda,M,lcn3_mg,175.49,160.0,AI,110.0,False,,False,
+classic_iodised,usda,M,b1_mg,2.35,1.0,EAR,235.0,False,,False,
+classic_iodised,usda,M,b2_mg,6.82,1.1,EAR,620.0,False,,False,
+classic_iodised,usda,M,niacin_ne_mg,50.09,12.0,EAR,417.0,False,,False,
+classic_iodised,usda,M,b6_mg,2.84,1.1,EAR,258.0,False,,False,
+classic_iodised,usda,M,b12_ug,32.82,2.0,EAR,1641.0,False,,False,
+classic_iodised,usda,M,folate_dfe_ug,604.66,320.0,EAR,189.0,False,,False,
+classic_iodised,usda,M,b5_mg,18.11,6.0,AI,302.0,False,,False,
+classic_iodised,usda,M,vita_rae_ug,3816.56,625.0,EAR,611.0,False,,False,
+classic_iodised,usda,M,vitc_mg,578.55,30.0,EAR,1928.0,False,,False,
+classic_iodised,usda,M,vitd_ug,3.09,5.0,AI,62.0,True,80.0,False,0.0
+classic_iodised,usda,M,vite_mg,5.22,10.0,AI,52.0,True,,False,
+classic_iodised,usda,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic_iodised,usda,M,choline_mg,926.38,550.0,AI,168.0,False,3500.0,False,0.0
+classic_iodised,usda,M,ca_mg,2940.66,840.0,EAR,350.0,False,2500.0,True,7.0
+classic_iodised,usda,M,p_mg,2941.54,580.0,EAR,507.0,False,4000.0,False,0.0
+classic_iodised,usda,M,mg_mg,489.69,350.0,EAR,140.0,False,,False,
+classic_iodised,usda,M,fe_mg,11.76,6.0,EAR,196.0,False,45.0,False,0.0
+classic_iodised,usda,M,zn_mg,25.93,12.0,EAR,216.0,False,40.0,False,1.0
+classic_iodised,usda,M,i_ug,839.96,100.0,EAR,840.0,False,1100.0,False,0.0
+classic_iodised,usda,M,se_ug,172.47,60.0,EAR,287.0,False,400.0,False,0.0
+classic_iodised,usda,M,cu_mg,4.16,1.7,AI,245.0,False,10.0,False,1.0
+classic_iodised,usda,M,mn_mg,1.75,5.5,AI,32.0,True,,False,
+classic_iodised,usda,M,k_mg,7281.53,3800.0,AI,192.0,False,,False,
+classic_iodised,usda,,retinol_ug,2800.787142857144,,,,,3000.0,False,1.0
+classic_iodised,usda,,pufa_pctE,2.48,,Peat: as low as possible,,,,,
+classic_iodised,usda,,ca_p_ratio,1.0,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_iodised,usda,,free_sugars_pctE,18.05,10.0,WHO < 10% E,,,,,
+classic_iodised,usda,,protein_pctE,20.89,25.0,AMDR 15-25% E,,,,,
+classic_iodised,usda,,kcal,2764.63,2629.0630975143404,EER M 31-50,,,,,
+classic_milk1gal,afcd,M,protein_g,208.88,52.0,EAR,402.0,False,,False,
+classic_milk1gal,afcd,M,fibre_g,14.07,30.0,AI,47.0,True,,False,
+classic_milk1gal,afcd,M,la_g,3.39,13.0,AI,26.0,True,,False,
+classic_milk1gal,afcd,M,ala_g,0.8,1.3,AI,62.0,True,,False,
+classic_milk1gal,afcd,M,lcn3_mg,364.98,160.0,AI,228.0,False,,False,
+classic_milk1gal,afcd,M,b1_mg,2.0,1.0,EAR,200.0,False,,False,
+classic_milk1gal,afcd,M,b2_mg,8.65,1.1,EAR,786.0,False,,False,
+classic_milk1gal,afcd,M,niacin_ne_mg,101.7,12.0,EAR,848.0,False,,False,
+classic_milk1gal,afcd,M,b6_mg,0.89,1.1,EAR,81.0,True,,False,
+classic_milk1gal,afcd,M,b12_ug,32.36,2.0,EAR,1618.0,False,,False,
+classic_milk1gal,afcd,M,folate_dfe_ug,1082.0,320.0,EAR,338.0,False,,False,
+classic_milk1gal,afcd,M,b5_mg,24.48,6.0,AI,408.0,False,,False,
+classic_milk1gal,afcd,M,vita_rae_ug,10193.93,625.0,EAR,1631.0,False,,False,
+classic_milk1gal,afcd,M,vitc_mg,631.2,30.0,EAR,2104.0,False,,False,
+classic_milk1gal,afcd,M,vitd_ug,13.18,5.0,AI,264.0,False,80.0,False,0.0
+classic_milk1gal,afcd,M,vite_mg,5.2,10.0,AI,52.0,True,,False,
+classic_milk1gal,afcd,M,vitk_ug,44.58,70.0,AI,64.0,True,,False,
+classic_milk1gal,afcd,M,choline_mg,1245.97,550.0,AI,227.0,False,3500.0,False,0.0
+classic_milk1gal,afcd,M,ca_mg,5084.31,840.0,EAR,605.0,False,2500.0,True,7.0
+classic_milk1gal,afcd,M,p_mg,4775.46,580.0,EAR,823.0,False,4000.0,True,7.0
+classic_milk1gal,afcd,M,mg_mg,696.55,350.0,EAR,199.0,False,,False,
+classic_milk1gal,afcd,M,fe_mg,10.24,6.0,EAR,171.0,False,45.0,False,0.0
+classic_milk1gal,afcd,M,zn_mg,27.53,12.0,EAR,229.0,False,40.0,False,0.0
+classic_milk1gal,afcd,M,i_ug,1119.82,100.0,EAR,1120.0,False,1100.0,True,2.0
+classic_milk1gal,afcd,M,se_ug,116.42,60.0,EAR,194.0,False,400.0,False,0.0
+classic_milk1gal,afcd,M,cu_mg,3.9,1.7,AI,229.0,False,10.0,False,1.0
+classic_milk1gal,afcd,M,mn_mg,5.08,5.5,AI,92.0,True,,False,
+classic_milk1gal,afcd,M,k_mg,10546.38,3800.0,AI,278.0,False,,False,
+classic_milk1gal,afcd,,retinol_ug,8399.594285714284,,,,,3000.0,True,1.0
+classic_milk1gal,afcd,,pufa_pctE,1.37,,Peat: as low as possible,,,,,
+classic_milk1gal,afcd,,ca_p_ratio,1.07,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_milk1gal,afcd,,free_sugars_pctE,13.48,10.0,WHO < 10% E,,,,,
+classic_milk1gal,afcd,,protein_pctE,26.32,25.0,AMDR 15-25% E,,,,,
+classic_milk1gal,afcd,,kcal,3224.05,2629.0630975143404,EER M 31-50,,,,,
+classic_milk1gal,usda,M,protein_g,206.73,52.0,EAR,398.0,False,,False,
+classic_milk1gal,usda,M,fibre_g,13.34,30.0,AI,44.0,True,,False,
+classic_milk1gal,usda,M,la_g,7.57,13.0,AI,58.0,True,,False,
+classic_milk1gal,usda,M,ala_g,0.8,1.3,AI,62.0,True,,False,
+classic_milk1gal,usda,M,lcn3_mg,175.49,160.0,AI,110.0,False,,False,
+classic_milk1gal,usda,M,b1_mg,3.11,1.0,EAR,311.0,False,,False,
+classic_milk1gal,usda,M,b2_mg,10.42,1.1,EAR,947.0,False,,False,
+classic_milk1gal,usda,M,niacin_ne_mg,65.52,12.0,EAR,546.0,False,,False,
+classic_milk1gal,usda,M,b6_mg,3.58,1.1,EAR,325.0,False,,False,
+classic_milk1gal,usda,M,b12_ug,43.14,2.0,EAR,2157.0,False,,False,
+classic_milk1gal,usda,M,folate_dfe_ug,702.09,320.0,EAR,219.0,False,,False,
+classic_milk1gal,usda,M,b5_mg,25.05,6.0,AI,418.0,False,,False,
+classic_milk1gal,usda,M,vita_rae_ug,4362.19,625.0,EAR,698.0,False,,False,
+classic_milk1gal,usda,M,vitc_mg,582.45,30.0,EAR,1942.0,False,,False,
+classic_milk1gal,usda,M,vitd_ug,3.09,5.0,AI,62.0,True,80.0,False,0.0
+classic_milk1gal,usda,M,vite_mg,5.8,10.0,AI,58.0,True,,False,
+classic_milk1gal,usda,M,vitk_ug,44.58,70.0,AI,64.0,True,,False,
+classic_milk1gal,usda,M,choline_mg,1245.97,550.0,AI,227.0,False,3500.0,False,0.0
+classic_milk1gal,usda,M,ca_mg,5279.1,840.0,EAR,628.0,False,2500.0,True,7.0
+classic_milk1gal,usda,M,p_mg,4734.35,580.0,EAR,816.0,False,4000.0,True,7.0
+classic_milk1gal,usda,M,mg_mg,704.04,350.0,EAR,201.0,False,,False,
+classic_milk1gal,usda,M,fe_mg,12.15,6.0,EAR,202.0,False,45.0,False,0.0
+classic_milk1gal,usda,M,zn_mg,35.28,12.0,EAR,294.0,False,40.0,False,1.0
+classic_milk1gal,usda,M,i_ug,1119.82,100.0,EAR,1120.0,False,1100.0,True,2.0
+classic_milk1gal,usda,M,se_ug,221.18,60.0,EAR,369.0,False,400.0,False,0.0
+classic_milk1gal,usda,M,cu_mg,4.27,1.7,AI,251.0,False,10.0,False,1.0
+classic_milk1gal,usda,M,mn_mg,2.02,5.5,AI,37.0,True,,False,
+classic_milk1gal,usda,M,k_mg,10009.71,3800.0,AI,263.0,False,,False,
+classic_milk1gal,usda,,retinol_ug,3326.9371428571426,,,,,3000.0,True,1.0
+classic_milk1gal,usda,,pufa_pctE,2.17,,Peat: as low as possible,,,,,
+classic_milk1gal,usda,,ca_p_ratio,1.12,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_milk1gal,usda,,free_sugars_pctE,13.32,10.0,WHO < 10% E,,,,,
+classic_milk1gal,usda,,protein_pctE,22.42,25.0,AMDR 15-25% E,,,,,
+classic_milk1gal,usda,,kcal,3742.71,2629.0630975143404,EER M 31-50,,,,,
+classic_nogelatin,afcd,M,protein_g,136.14,52.0,EAR,262.0,False,,False,
+classic_nogelatin,afcd,M,fibre_g,14.07,30.0,AI,47.0,True,,False,
+classic_nogelatin,afcd,M,la_g,3.0,13.0,AI,23.0,True,,False,
+classic_nogelatin,afcd,M,ala_g,0.61,1.3,AI,47.0,True,,False,
+classic_nogelatin,afcd,M,lcn3_mg,364.98,160.0,AI,228.0,False,,False,
+classic_nogelatin,afcd,M,b1_mg,1.61,1.0,EAR,161.0,False,,False,
+classic_nogelatin,afcd,M,b2_mg,5.28,1.1,EAR,480.0,False,,False,
+classic_nogelatin,afcd,M,niacin_ne_mg,66.41,12.0,EAR,553.0,False,,False,
+classic_nogelatin,afcd,M,b6_mg,0.7,1.1,EAR,64.0,True,,False,
+classic_nogelatin,afcd,M,b12_ug,28.47,2.0,EAR,1424.0,False,,False,
+classic_nogelatin,afcd,M,folate_dfe_ug,981.56,320.0,EAR,307.0,False,,False,
+classic_nogelatin,afcd,M,b5_mg,16.68,6.0,AI,278.0,False,,False,
+classic_nogelatin,afcd,M,vita_rae_ug,9921.11,625.0,EAR,1587.0,False,,False,
+classic_nogelatin,afcd,M,vitc_mg,631.2,30.0,EAR,2104.0,False,,False,
+classic_nogelatin,afcd,M,vitd_ug,11.63,5.0,AI,233.0,False,80.0,False,0.0
+classic_nogelatin,afcd,M,vite_mg,4.81,10.0,AI,48.0,True,,False,
+classic_nogelatin,afcd,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic_nogelatin,afcd,M,choline_mg,922.53,550.0,AI,168.0,False,3500.0,False,0.0
+classic_nogelatin,afcd,M,ca_mg,2818.3,840.0,EAR,336.0,False,2500.0,True,7.0
+classic_nogelatin,afcd,M,p_mg,2979.46,580.0,EAR,514.0,False,4000.0,False,0.0
+classic_nogelatin,afcd,M,mg_mg,480.69,350.0,EAR,137.0,False,,False,
+classic_nogelatin,afcd,M,fe_mg,9.83,6.0,EAR,164.0,False,45.0,False,0.0
+classic_nogelatin,afcd,M,zn_mg,20.28,12.0,EAR,169.0,False,40.0,False,0.0
+classic_nogelatin,afcd,M,i_ug,620.95,100.0,EAR,621.0,False,1100.0,False,0.0
+classic_nogelatin,afcd,M,se_ug,102.18,60.0,EAR,170.0,False,400.0,False,0.0
+classic_nogelatin,afcd,M,cu_mg,3.8,1.7,AI,224.0,False,10.0,False,1.0
+classic_nogelatin,afcd,M,mn_mg,5.03,5.5,AI,91.0,True,,False,
+classic_nogelatin,afcd,M,k_mg,7505.71,3800.0,AI,198.0,False,,False,
+classic_nogelatin,afcd,,retinol_ug,8146.254285714286,,,,,3000.0,True,1.0
+classic_nogelatin,afcd,,pufa_pctE,1.65,,Peat: as low as possible,,,,,
+classic_nogelatin,afcd,,ca_p_ratio,0.95,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_nogelatin,afcd,,free_sugars_pctE,18.54,10.0,WHO < 10% E,,,,,
+classic_nogelatin,afcd,,protein_pctE,23.56,25.0,AMDR 15-25% E,,,,,
+classic_nogelatin,afcd,,kcal,2346.41,2629.0630975143404,EER M 31-50,,,,,
+classic_nogelatin,usda,M,protein_g,133.87,52.0,EAR,257.0,False,,False,
+classic_nogelatin,usda,M,fibre_g,13.34,30.0,AI,44.0,True,,False,
+classic_nogelatin,usda,M,la_g,6.36,13.0,AI,49.0,True,,False,
+classic_nogelatin,usda,M,ala_g,0.65,1.3,AI,50.0,True,,False,
+classic_nogelatin,usda,M,lcn3_mg,175.49,160.0,AI,110.0,False,,False,
+classic_nogelatin,usda,M,b1_mg,2.34,1.0,EAR,234.0,False,,False,
+classic_nogelatin,usda,M,b2_mg,6.79,1.1,EAR,617.0,False,,False,
+classic_nogelatin,usda,M,niacin_ne_mg,50.08,12.0,EAR,417.0,False,,False,
+classic_nogelatin,usda,M,b6_mg,2.84,1.1,EAR,258.0,False,,False,
+classic_nogelatin,usda,M,b12_ug,32.82,2.0,EAR,1641.0,False,,False,
+classic_nogelatin,usda,M,folate_dfe_ug,601.66,320.0,EAR,188.0,False,,False,
+classic_nogelatin,usda,M,b5_mg,18.1,6.0,AI,302.0,False,,False,
+classic_nogelatin,usda,M,vita_rae_ug,3816.56,625.0,EAR,611.0,False,,False,
+classic_nogelatin,usda,M,vitc_mg,578.55,30.0,EAR,1928.0,False,,False,
+classic_nogelatin,usda,M,vitd_ug,3.09,5.0,AI,62.0,True,80.0,False,0.0
+classic_nogelatin,usda,M,vite_mg,5.22,10.0,AI,52.0,True,,False,
+classic_nogelatin,usda,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic_nogelatin,usda,M,choline_mg,922.53,550.0,AI,168.0,False,3500.0,False,0.0
+classic_nogelatin,usda,M,ca_mg,2935.16,840.0,EAR,349.0,False,2500.0,True,7.0
+classic_nogelatin,usda,M,p_mg,2937.64,580.0,EAR,506.0,False,4000.0,False,0.0
+classic_nogelatin,usda,M,mg_mg,487.49,350.0,EAR,139.0,False,,False,
+classic_nogelatin,usda,M,fe_mg,11.65,6.0,EAR,194.0,False,45.0,False,0.0
+classic_nogelatin,usda,M,zn_mg,25.91,12.0,EAR,216.0,False,40.0,False,1.0
+classic_nogelatin,usda,M,i_ug,620.95,100.0,EAR,621.0,False,1100.0,False,0.0
+classic_nogelatin,usda,M,se_ug,168.52,60.0,EAR,281.0,False,400.0,False,0.0
+classic_nogelatin,usda,M,cu_mg,3.94,1.7,AI,232.0,False,10.0,False,1.0
+classic_nogelatin,usda,M,mn_mg,1.74,5.5,AI,32.0,True,,False,
+classic_nogelatin,usda,M,k_mg,7279.93,3800.0,AI,192.0,False,,False,
+classic_nogelatin,usda,,retinol_ug,2800.787142857144,,,,,3000.0,False,1.0
+classic_nogelatin,usda,,pufa_pctE,2.51,,Peat: as low as possible,,,,,
+classic_nogelatin,usda,,ca_p_ratio,1.0,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_nogelatin,usda,,free_sugars_pctE,18.27,10.0,WHO < 10% E,,,,,
+classic_nogelatin,usda,,protein_pctE,19.87,25.0,AMDR 15-25% E,,,,,
+classic_nogelatin,usda,,kcal,2731.13,2629.0630975143404,EER M 31-50,,,,,
+classic_oj2qt,afcd,M,protein_g,152.45,52.0,EAR,293.0,False,,False,
+classic_oj2qt,afcd,M,fibre_g,17.02,30.0,AI,57.0,True,,False,
+classic_oj2qt,afcd,M,la_g,3.0,13.0,AI,23.0,True,,False,
+classic_oj2qt,afcd,M,ala_g,0.61,1.3,AI,47.0,True,,False,
+classic_oj2qt,afcd,M,lcn3_mg,364.98,160.0,AI,228.0,False,,False,
+classic_oj2qt,afcd,M,b1_mg,2.43,1.0,EAR,243.0,False,,False,
+classic_oj2qt,afcd,M,b2_mg,5.28,1.1,EAR,480.0,False,,False,
+classic_oj2qt,afcd,M,niacin_ne_mg,66.73,12.0,EAR,556.0,False,,False,
+classic_oj2qt,afcd,M,b6_mg,0.7,1.1,EAR,64.0,True,,False,
+classic_oj2qt,afcd,M,b12_ug,28.47,2.0,EAR,1424.0,False,,False,
+classic_oj2qt,afcd,M,folate_dfe_ug,1427.32,320.0,EAR,446.0,False,,False,
+classic_oj2qt,afcd,M,b5_mg,19.64,6.0,AI,327.0,False,,False,
+classic_oj2qt,afcd,M,vita_rae_ug,9940.79,625.0,EAR,1591.0,False,,False,
+classic_oj2qt,afcd,M,vitc_mg,1182.18,30.0,EAR,3941.0,False,,False,
+classic_oj2qt,afcd,M,vitd_ug,11.63,5.0,AI,233.0,False,80.0,False,0.0
+classic_oj2qt,afcd,M,vite_mg,5.79,10.0,AI,58.0,True,,False,
+classic_oj2qt,afcd,M,vitk_ug,41.67,70.0,AI,60.0,True,,False,
+classic_oj2qt,afcd,M,choline_mg,987.38,550.0,AI,180.0,False,3500.0,False,0.0
+classic_oj2qt,afcd,M,ca_mg,2912.17,840.0,EAR,347.0,False,2500.0,True,7.0
+classic_oj2qt,afcd,M,p_mg,3120.4,580.0,EAR,538.0,False,4000.0,False,0.0
+classic_oj2qt,afcd,M,mg_mg,551.06,350.0,EAR,157.0,False,,False,
+classic_oj2qt,afcd,M,fe_mg,10.44,6.0,EAR,174.0,False,45.0,False,0.0
+classic_oj2qt,afcd,M,zn_mg,20.61,12.0,EAR,172.0,False,40.0,False,0.0
+classic_oj2qt,afcd,M,i_ug,620.95,100.0,EAR,621.0,False,1100.0,False,0.0
+classic_oj2qt,afcd,M,se_ug,104.75,60.0,EAR,175.0,False,400.0,False,0.0
+classic_oj2qt,afcd,M,cu_mg,4.06,1.7,AI,239.0,False,10.0,False,1.0
+classic_oj2qt,afcd,M,mn_mg,5.15,5.5,AI,94.0,True,,False,
+classic_oj2qt,afcd,M,k_mg,8933.06,3800.0,AI,235.0,False,,False,
+classic_oj2qt,afcd,,retinol_ug,8146.254285714286,,,,,3000.0,True,1.0
+classic_oj2qt,afcd,,pufa_pctE,1.44,,Peat: as low as possible,,,,,
+classic_oj2qt,afcd,,ca_p_ratio,0.94,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_oj2qt,afcd,,free_sugars_pctE,26.22,10.0,WHO < 10% E,,,,,
+classic_oj2qt,afcd,,protein_pctE,22.96,25.0,AMDR 15-25% E,,,,,
+classic_oj2qt,afcd,,kcal,2696.15,2629.0630975143404,EER M 31-50,,,,,
+classic_oj2qt,usda,M,protein_g,149.31,52.0,EAR,287.0,False,,False,
+classic_oj2qt,usda,M,fibre_g,15.31,30.0,AI,51.0,True,,False,
+classic_oj2qt,usda,M,la_g,6.64,13.0,AI,51.0,True,,False,
+classic_oj2qt,usda,M,ala_g,0.75,1.3,AI,58.0,True,,False,
+classic_oj2qt,usda,M,lcn3_mg,175.49,160.0,AI,110.0,False,,False,
+classic_oj2qt,usda,M,b1_mg,3.23,1.0,EAR,323.0,False,,False,
+classic_oj2qt,usda,M,b2_mg,7.11,1.1,EAR,646.0,False,,False,
+classic_oj2qt,usda,M,niacin_ne_mg,54.35,12.0,EAR,453.0,False,,False,
+classic_oj2qt,usda,M,b6_mg,3.24,1.1,EAR,295.0,False,,False,
+classic_oj2qt,usda,M,b12_ug,32.82,2.0,EAR,1641.0,False,,False,
+classic_oj2qt,usda,M,folate_dfe_ug,899.83,320.0,EAR,281.0,False,,False,
+classic_oj2qt,usda,M,b5_mg,19.98,6.0,AI,333.0,False,,False,
+classic_oj2qt,usda,M,vita_rae_ug,3914.95,625.0,EAR,626.0,False,,False,
+classic_oj2qt,usda,M,vitc_mg,1070.5,30.0,EAR,3568.0,False,,False,
+classic_oj2qt,usda,M,vitd_ug,3.09,5.0,AI,62.0,True,80.0,False,0.0
+classic_oj2qt,usda,M,vite_mg,5.61,10.0,AI,56.0,True,,False,
+classic_oj2qt,usda,M,vitk_ug,41.67,70.0,AI,60.0,True,,False,
+classic_oj2qt,usda,M,choline_mg,987.38,550.0,AI,180.0,False,3500.0,False,0.0
+classic_oj2qt,usda,M,ca_mg,3048.89,840.0,EAR,363.0,False,2500.0,True,7.0
+classic_oj2qt,usda,M,p_mg,3108.8,580.0,EAR,536.0,False,4000.0,False,0.0
+classic_oj2qt,usda,M,mg_mg,597.92,350.0,EAR,171.0,False,,False,
+classic_oj2qt,usda,M,fe_mg,13.73,6.0,EAR,229.0,False,45.0,False,0.0
+classic_oj2qt,usda,M,zn_mg,26.42,12.0,EAR,220.0,False,40.0,False,1.0
+classic_oj2qt,usda,M,i_ug,620.95,100.0,EAR,621.0,False,1100.0,False,0.0
+classic_oj2qt,usda,M,se_ug,173.45,60.0,EAR,289.0,False,400.0,False,0.0
+classic_oj2qt,usda,M,cu_mg,4.59,1.7,AI,270.0,False,10.0,False,1.0
+classic_oj2qt,usda,M,mn_mg,1.89,5.5,AI,34.0,True,,False,
+classic_oj2qt,usda,M,k_mg,9249.33,3800.0,AI,243.0,False,,False,
+classic_oj2qt,usda,,retinol_ug,2800.787142857144,,,,,3000.0,False,1.0
+classic_oj2qt,usda,,pufa_pctE,2.25,,Peat: as low as possible,,,,,
+classic_oj2qt,usda,,ca_p_ratio,0.98,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_oj2qt,usda,,free_sugars_pctE,26.04,10.0,WHO < 10% E,,,,,
+classic_oj2qt,usda,,protein_pctE,18.89,25.0,AMDR 15-25% E,,,,,
+classic_oj2qt,usda,,kcal,3206.73,2629.0630975143404,EER M 31-50,,,,,
+classic_supps,afcd,M,protein_g,144.58,52.0,EAR,278.0,False,,False,
+classic_supps,afcd,M,fibre_g,14.07,30.0,AI,47.0,True,,False,
+classic_supps,afcd,M,la_g,3.0,13.0,AI,23.0,True,,False,
+classic_supps,afcd,M,ala_g,0.61,1.3,AI,47.0,True,,False,
+classic_supps,afcd,M,lcn3_mg,364.98,160.0,AI,228.0,False,,False,
+classic_supps,afcd,M,b1_mg,1.61,1.0,EAR,161.0,False,,False,
+classic_supps,afcd,M,b2_mg,5.28,1.1,EAR,480.0,False,,False,
+classic_supps,afcd,M,niacin_ne_mg,66.43,12.0,EAR,554.0,False,,False,
+classic_supps,afcd,M,b6_mg,0.7,1.1,EAR,64.0,True,,False,
+classic_supps,afcd,M,b12_ug,28.47,2.0,EAR,1424.0,False,,False,
+classic_supps,afcd,M,folate_dfe_ug,984.56,320.0,EAR,308.0,False,,False,
+classic_supps,afcd,M,b5_mg,16.68,6.0,AI,278.0,False,,False,
+classic_supps,afcd,M,vita_rae_ug,9921.11,625.0,EAR,1587.0,False,,False,
+classic_supps,afcd,M,vitc_mg,631.2,30.0,EAR,2104.0,False,,False,
+classic_supps,afcd,M,vitd_ug,11.63,5.0,AI,233.0,False,80.0,False,0.0
+classic_supps,afcd,M,vite_mg,104.81,10.0,AI,1048.0,False,,False,
+classic_supps,afcd,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic_supps,afcd,M,choline_mg,926.38,550.0,AI,168.0,False,3500.0,False,0.0
+classic_supps,afcd,M,ca_mg,2843.3,840.0,EAR,338.0,False,2500.0,True,7.0
+classic_supps,afcd,M,p_mg,2982.66,580.0,EAR,514.0,False,4000.0,False,0.0
+classic_supps,afcd,M,mg_mg,482.19,350.0,EAR,138.0,False,,False,
+classic_supps,afcd,M,fe_mg,10.04,6.0,EAR,167.0,False,45.0,False,0.0
+classic_supps,afcd,M,zn_mg,20.32,12.0,EAR,169.0,False,40.0,False,0.0
+classic_supps,afcd,M,i_ug,620.95,100.0,EAR,621.0,False,1100.0,False,0.0
+classic_supps,afcd,M,se_ug,102.78,60.0,EAR,171.0,False,400.0,False,0.0
+classic_supps,afcd,M,cu_mg,3.8,1.7,AI,224.0,False,10.0,False,1.0
+classic_supps,afcd,M,mn_mg,5.04,5.5,AI,92.0,True,,False,
+classic_supps,afcd,M,k_mg,7506.41,3800.0,AI,198.0,False,,False,
+classic_supps,afcd,,retinol_ug,8146.254285714286,,,,,3000.0,True,1.0
+classic_supps,afcd,,pufa_pctE,1.63,,Peat: as low as possible,,,,,
+classic_supps,afcd,,ca_p_ratio,0.96,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_supps,afcd,,free_sugars_pctE,18.27,10.0,WHO < 10% E,,,,,
+classic_supps,afcd,,protein_pctE,24.66,25.0,AMDR 15-25% E,,,,,
+classic_supps,afcd,,kcal,2381.04,2629.0630975143404,EER M 31-50,,,,,
+classic_supps,usda,M,protein_g,142.43,52.0,EAR,274.0,False,,False,
+classic_supps,usda,M,fibre_g,13.34,30.0,AI,44.0,True,,False,
+classic_supps,usda,M,la_g,6.36,13.0,AI,49.0,True,,False,
+classic_supps,usda,M,ala_g,0.65,1.3,AI,50.0,True,,False,
+classic_supps,usda,M,lcn3_mg,175.49,160.0,AI,110.0,False,,False,
+classic_supps,usda,M,b1_mg,2.35,1.0,EAR,235.0,False,,False,
+classic_supps,usda,M,b2_mg,6.82,1.1,EAR,620.0,False,,False,
+classic_supps,usda,M,niacin_ne_mg,50.09,12.0,EAR,417.0,False,,False,
+classic_supps,usda,M,b6_mg,2.84,1.1,EAR,258.0,False,,False,
+classic_supps,usda,M,b12_ug,32.82,2.0,EAR,1641.0,False,,False,
+classic_supps,usda,M,folate_dfe_ug,604.66,320.0,EAR,189.0,False,,False,
+classic_supps,usda,M,b5_mg,18.11,6.0,AI,302.0,False,,False,
+classic_supps,usda,M,vita_rae_ug,3816.56,625.0,EAR,611.0,False,,False,
+classic_supps,usda,M,vitc_mg,578.55,30.0,EAR,1928.0,False,,False,
+classic_supps,usda,M,vitd_ug,3.09,5.0,AI,62.0,True,80.0,False,0.0
+classic_supps,usda,M,vite_mg,105.22,10.0,AI,1052.0,False,,False,
+classic_supps,usda,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic_supps,usda,M,choline_mg,926.38,550.0,AI,168.0,False,3500.0,False,0.0
+classic_supps,usda,M,ca_mg,2940.66,840.0,EAR,350.0,False,2500.0,True,7.0
+classic_supps,usda,M,p_mg,2941.54,580.0,EAR,507.0,False,4000.0,False,0.0
+classic_supps,usda,M,mg_mg,489.69,350.0,EAR,140.0,False,,False,
+classic_supps,usda,M,fe_mg,11.76,6.0,EAR,196.0,False,45.0,False,0.0
+classic_supps,usda,M,zn_mg,25.93,12.0,EAR,216.0,False,40.0,False,1.0
+classic_supps,usda,M,i_ug,620.95,100.0,EAR,621.0,False,1100.0,False,0.0
+classic_supps,usda,M,se_ug,172.47,60.0,EAR,287.0,False,400.0,False,0.0
+classic_supps,usda,M,cu_mg,4.16,1.7,AI,245.0,False,10.0,False,1.0
+classic_supps,usda,M,mn_mg,1.75,5.5,AI,32.0,True,,False,
+classic_supps,usda,M,k_mg,7281.53,3800.0,AI,192.0,False,,False,
+classic_supps,usda,,retinol_ug,2800.787142857144,,,,,3000.0,False,1.0
+classic_supps,usda,,pufa_pctE,2.48,,Peat: as low as possible,,,,,
+classic_supps,usda,,ca_p_ratio,1.0,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_supps,usda,,free_sugars_pctE,18.05,10.0,WHO < 10% E,,,,,
+classic_supps,usda,,protein_pctE,20.89,25.0,AMDR 15-25% E,,,,,
+classic_supps,usda,,kcal,2764.63,2629.0630975143404,EER M 31-50,,,,,
+classic,usda,M,protein_g,142.43,52.0,EAR,274.0,False,,False,
+classic,usda,M,fibre_g,13.34,30.0,AI,44.0,True,,False,
+classic,usda,M,la_g,6.36,13.0,AI,49.0,True,,False,
+classic,usda,M,ala_g,0.65,1.3,AI,50.0,True,,False,
+classic,usda,M,lcn3_mg,175.49,160.0,AI,110.0,False,,False,
+classic,usda,M,b1_mg,2.35,1.0,EAR,235.0,False,,False,
+classic,usda,M,b2_mg,6.82,1.1,EAR,620.0,False,,False,
+classic,usda,M,niacin_ne_mg,50.09,12.0,EAR,417.0,False,,False,
+classic,usda,M,b6_mg,2.84,1.1,EAR,258.0,False,,False,
+classic,usda,M,b12_ug,32.82,2.0,EAR,1641.0,False,,False,
+classic,usda,M,folate_dfe_ug,604.66,320.0,EAR,189.0,False,,False,
+classic,usda,M,b5_mg,18.11,6.0,AI,302.0,False,,False,
+classic,usda,M,vita_rae_ug,3816.56,625.0,EAR,611.0,False,,False,
+classic,usda,M,vitc_mg,578.55,30.0,EAR,1928.0,False,,False,
+classic,usda,M,vitd_ug,3.09,5.0,AI,62.0,True,80.0,False,0.0
+classic,usda,M,vite_mg,5.22,10.0,AI,52.0,True,,False,
+classic,usda,M,vitk_ug,40.68,70.0,AI,58.0,True,,False,
+classic,usda,M,choline_mg,926.38,550.0,AI,168.0,False,3500.0,False,0.0
+classic,usda,M,ca_mg,2940.66,840.0,EAR,350.0,False,2500.0,True,7.0
+classic,usda,M,p_mg,2941.54,580.0,EAR,507.0,False,4000.0,False,0.0
+classic,usda,M,mg_mg,489.69,350.0,EAR,140.0,False,,False,
+classic,usda,M,fe_mg,11.76,6.0,EAR,196.0,False,45.0,False,0.0
+classic,usda,M,zn_mg,25.93,12.0,EAR,216.0,False,40.0,False,1.0
+classic,usda,M,i_ug,620.95,100.0,EAR,621.0,False,1100.0,False,0.0
+classic,usda,M,se_ug,172.47,60.0,EAR,287.0,False,400.0,False,0.0
+classic,usda,M,cu_mg,4.16,1.7,AI,245.0,False,10.0,False,1.0
+classic,usda,M,mn_mg,1.75,5.5,AI,32.0,True,,False,
+classic,usda,M,k_mg,7281.53,3800.0,AI,192.0,False,,False,
+classic,usda,,retinol_ug,2800.787142857144,,,,,3000.0,False,1.0
+classic,usda,,pufa_pctE,2.48,,Peat: as low as possible,,,,,
+classic,usda,,ca_p_ratio,1.0,0.5,Peat C03: P <= 2x Ca,,,,,
+classic,usda,,free_sugars_pctE,18.05,10.0,WHO < 10% E,,,,,
+classic,usda,,protein_pctE,20.89,25.0,AMDR 15-25% E,,,,,
+classic,usda,,kcal,2764.63,2629.0630975143404,EER M 31-50,,,,,
+classic_woman,afcd,F,protein_g,116.99,37.0,EAR,316.0,False,,False,
+classic_woman,afcd,F,fibre_g,11.38,25.0,AI,46.0,True,,False,
+classic_woman,afcd,F,la_g,2.43,8.0,AI,30.0,True,,False,
+classic_woman,afcd,F,ala_g,0.49,0.8,AI,61.0,True,,False,
+classic_woman,afcd,F,lcn3_mg,295.27,90.0,AI,328.0,False,,False,
+classic_woman,afcd,F,b1_mg,1.3,0.9,EAR,144.0,False,,False,
+classic_woman,afcd,F,b2_mg,4.27,0.9,EAR,474.0,False,,False,
+classic_woman,afcd,F,niacin_ne_mg,53.75,11.0,EAR,489.0,False,,False,
+classic_woman,afcd,F,b6_mg,0.56,1.1,EAR,51.0,True,,False,
+classic_woman,afcd,F,b12_ug,23.03,2.0,EAR,1152.0,False,,False,
+classic_woman,afcd,F,folate_dfe_ug,796.56,320.0,EAR,249.0,False,,False,
+classic_woman,afcd,F,b5_mg,13.5,4.0,AI,338.0,False,,False,
+classic_woman,afcd,F,vita_rae_ug,8024.68,500.0,EAR,1605.0,False,,False,
+classic_woman,afcd,F,vitc_mg,510.7,30.0,EAR,1702.0,False,,False,
+classic_woman,afcd,F,vitd_ug,9.41,5.0,AI,188.0,False,80.0,False,0.0
+classic_woman,afcd,F,vite_mg,3.89,7.0,AI,56.0,True,,False,
+classic_woman,afcd,F,vitk_ug,32.91,60.0,AI,55.0,True,,False,
+classic_woman,afcd,F,choline_mg,749.52,425.0,AI,176.0,False,3500.0,False,0.0
+classic_woman,afcd,F,ca_mg,2300.81,840.0,EAR,274.0,False,2500.0,False,0.0
+classic_woman,afcd,F,p_mg,2413.38,580.0,EAR,416.0,False,4000.0,False,0.0
+classic_woman,afcd,F,mg_mg,390.14,265.0,EAR,147.0,False,,False,
+classic_woman,afcd,F,fe_mg,8.12,8.0,EAR,101.0,False,45.0,False,0.0
+classic_woman,afcd,F,zn_mg,16.44,6.5,EAR,253.0,False,40.0,False,0.0
+classic_woman,afcd,F,i_ug,502.41,100.0,EAR,502.0,False,1100.0,False,0.0
+classic_woman,afcd,F,se_ug,83.16,50.0,EAR,166.0,False,400.0,False,0.0
+classic_woman,afcd,F,cu_mg,3.08,1.2,AI,257.0,False,10.0,False,1.0
+classic_woman,afcd,F,mn_mg,4.08,5.0,AI,82.0,True,,False,
+classic_woman,afcd,F,k_mg,6073.3,2800.0,AI,217.0,False,,False,
+classic_woman,afcd,,retinol_ug,6588.81857142857,,,,,3000.0,True,1.0
+classic_woman,afcd,,pufa_pctE,1.63,,Peat: as low as possible,,,,,
+classic_woman,afcd,,ca_p_ratio,0.96,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_woman,afcd,,free_sugars_pctE,18.28,10.0,WHO < 10% E,,,,,
+classic_woman,afcd,,protein_pctE,24.67,25.0,AMDR 15-25% E,,,,,
+classic_woman,afcd,,kcal,1926.18,2127.151051625239,EER F 31-50,,,,,
+classic_woman,usda,F,protein_g,115.25,37.0,EAR,311.0,False,,False,
+classic_woman,usda,F,fibre_g,10.79,25.0,AI,43.0,True,,False,
+classic_woman,usda,F,la_g,5.14,8.0,AI,64.0,True,,False,
+classic_woman,usda,F,ala_g,0.52,0.8,AI,65.0,True,,False,
+classic_woman,usda,F,lcn3_mg,141.99,90.0,AI,158.0,False,,False,
+classic_woman,usda,F,b1_mg,1.9,0.9,EAR,211.0,False,,False,
+classic_woman,usda,F,b2_mg,5.51,0.9,EAR,612.0,False,,False,
+classic_woman,usda,F,niacin_ne_mg,40.52,11.0,EAR,368.0,False,,False,
+classic_woman,usda,F,b6_mg,2.3,1.1,EAR,209.0,False,,False,
+classic_woman,usda,F,b12_ug,26.55,2.0,EAR,1328.0,False,,False,
+classic_woman,usda,F,folate_dfe_ug,489.23,320.0,EAR,153.0,False,,False,
+classic_woman,usda,F,b5_mg,14.65,4.0,AI,366.0,False,,False,
+classic_woman,usda,F,vita_rae_ug,3087.23,500.0,EAR,617.0,False,,False,
+classic_woman,usda,F,vitc_mg,468.1,30.0,EAR,1560.0,False,,False,
+classic_woman,usda,F,vitd_ug,2.5,5.0,AI,50.0,True,80.0,False,0.0
+classic_woman,usda,F,vite_mg,4.22,7.0,AI,60.0,True,,False,
+classic_woman,usda,F,vitk_ug,32.91,60.0,AI,55.0,True,,False,
+classic_woman,usda,F,choline_mg,749.52,425.0,AI,176.0,False,3500.0,False,0.0
+classic_woman,usda,F,ca_mg,2379.55,840.0,EAR,283.0,False,2500.0,False,0.0
+classic_woman,usda,F,p_mg,2380.11,580.0,EAR,410.0,False,4000.0,False,0.0
+classic_woman,usda,F,mg_mg,396.2,265.0,EAR,150.0,False,,False,
+classic_woman,usda,F,fe_mg,9.52,8.0,EAR,119.0,False,45.0,False,0.0
+classic_woman,usda,F,zn_mg,20.98,6.5,EAR,323.0,False,40.0,False,1.0
+classic_woman,usda,F,i_ug,502.41,100.0,EAR,502.0,False,1100.0,False,0.0
+classic_woman,usda,F,se_ug,139.54,50.0,EAR,279.0,False,400.0,False,0.0
+classic_woman,usda,F,cu_mg,3.36,1.2,AI,280.0,False,10.0,False,1.0
+classic_woman,usda,F,mn_mg,1.42,5.0,AI,28.0,True,,False,
+classic_woman,usda,F,k_mg,5891.32,2800.0,AI,210.0,False,,False,
+classic_woman,usda,,retinol_ug,2265.4614285714288,,,,,3000.0,False,1.0
+classic_woman,usda,,pufa_pctE,2.48,,Peat: as low as possible,,,,,
+classic_woman,usda,,ca_p_ratio,1.0,0.5,Peat C03: P <= 2x Ca,,,,,
+classic_woman,usda,,free_sugars_pctE,18.06,10.0,WHO < 10% E,,,,,
+classic_woman,usda,,protein_pctE,20.9,25.0,AMDR 15-25% E,,,,,
+classic_woman,usda,,kcal,2236.54,2127.151051625239,EER F 31-50,,,,,
+late,afcd,M,protein_g,55.94,52.0,EAR,108.0,False,,False,
+late,afcd,M,fibre_g,20.27,30.0,AI,68.0,True,,False,
+late,afcd,M,la_g,1.46,13.0,AI,11.0,True,,False,
+late,afcd,M,ala_g,0.14,1.3,AI,11.0,True,,False,
+late,afcd,M,lcn3_mg,41.76,160.0,AI,26.0,True,,False,
+late,afcd,M,b1_mg,2.1,1.0,EAR,210.0,False,,False,
+late,afcd,M,b2_mg,1.21,1.1,EAR,110.0,False,,False,
+late,afcd,M,niacin_ne_mg,26.35,12.0,EAR,220.0,False,,False,
+late,afcd,M,b6_mg,0.38,1.1,EAR,35.0,True,,False,
+late,afcd,M,b12_ug,1.77,2.0,EAR,88.0,True,,False,
+late,afcd,M,folate_dfe_ug,1135.12,320.0,EAR,355.0,False,,False,
+late,afcd,M,b5_mg,11.13,6.0,AI,186.0,False,,False,
+late,afcd,M,vita_rae_ug,2039.13,625.0,EAR,326.0,False,,False,
+late,afcd,M,vitc_mg,1211.63,30.0,EAR,4039.0,False,,False,
+late,afcd,M,vitd_ug,5.99,5.0,AI,120.0,False,80.0,False,0.0
+late,afcd,M,vite_mg,4.06,10.0,AI,41.0,True,,False,
+late,afcd,M,vitk_ug,39.59,70.0,AI,57.0,True,,False,
+late,afcd,M,choline_mg,490.08,550.0,AI,89.0,True,3500.0,False,0.0
+late,afcd,M,ca_mg,859.14,840.0,EAR,102.0,False,2500.0,False,0.0
+late,afcd,M,p_mg,1217.42,580.0,EAR,210.0,False,4000.0,False,0.0
+late,afcd,M,mg_mg,355.92,350.0,EAR,102.0,False,,False,
+late,afcd,M,fe_mg,4.18,6.0,EAR,70.0,True,45.0,False,0.0
+late,afcd,M,zn_mg,4.76,12.0,EAR,40.0,True,40.0,False,0.0
+late,afcd,M,i_ug,173.38,100.0,EAR,173.0,False,1100.0,False,0.0
+late,afcd,M,se_ug,43.1,60.0,EAR,72.0,True,400.0,False,0.0
+late,afcd,M,cu_mg,1.61,1.7,AI,95.0,True,10.0,False,0.0
+late,afcd,M,mn_mg,4.07,5.5,AI,74.0,True,,False,
+late,afcd,M,k_mg,6698.01,3800.0,AI,176.0,False,,False,
+late,afcd,,retinol_ug,229.59999999999997,,,,,3000.0,False,0.0
+late,afcd,,pufa_pctE,0.57,,Peat: as low as possible,,,,,
+late,afcd,,ca_p_ratio,0.71,0.5,Peat C03: P <= 2x Ca,,,,,
+late,afcd,,free_sugars_pctE,67.24,10.0,WHO < 10% E,,,,,
+late,afcd,,protein_pctE,8.64,25.0,AMDR 15-25% E,,,,,
+late,afcd,,kcal,2629.09,2629.0630975143404,EER M 31-50,,,,,
+late_asdescribed,afcd,M,protein_g,55.94,52.0,EAR,108.0,False,,False,
+late_asdescribed,afcd,M,fibre_g,20.27,30.0,AI,68.0,True,,False,
+late_asdescribed,afcd,M,la_g,1.46,13.0,AI,11.0,True,,False,
+late_asdescribed,afcd,M,ala_g,0.14,1.3,AI,11.0,True,,False,
+late_asdescribed,afcd,M,lcn3_mg,41.76,160.0,AI,26.0,True,,False,
+late_asdescribed,afcd,M,b1_mg,2.1,1.0,EAR,210.0,False,,False,
+late_asdescribed,afcd,M,b2_mg,1.21,1.1,EAR,110.0,False,,False,
+late_asdescribed,afcd,M,niacin_ne_mg,26.35,12.0,EAR,220.0,False,,False,
+late_asdescribed,afcd,M,b6_mg,0.36,1.1,EAR,33.0,True,,False,
+late_asdescribed,afcd,M,b12_ug,1.77,2.0,EAR,88.0,True,,False,
+late_asdescribed,afcd,M,folate_dfe_ug,1135.12,320.0,EAR,355.0,False,,False,
+late_asdescribed,afcd,M,b5_mg,11.13,6.0,AI,186.0,False,,False,
+late_asdescribed,afcd,M,vita_rae_ug,2039.13,625.0,EAR,326.0,False,,False,
+late_asdescribed,afcd,M,vitc_mg,1211.63,30.0,EAR,4039.0,False,,False,
+late_asdescribed,afcd,M,vitd_ug,5.99,5.0,AI,120.0,False,80.0,False,0.0
+late_asdescribed,afcd,M,vite_mg,4.06,10.0,AI,41.0,True,,False,
+late_asdescribed,afcd,M,vitk_ug,39.59,70.0,AI,57.0,True,,False,
+late_asdescribed,afcd,M,choline_mg,490.08,550.0,AI,89.0,True,3500.0,False,0.0
+late_asdescribed,afcd,M,ca_mg,857.32,840.0,EAR,102.0,False,2500.0,False,0.0
+late_asdescribed,afcd,M,p_mg,1217.42,580.0,EAR,210.0,False,4000.0,False,0.0
+late_asdescribed,afcd,M,mg_mg,355.92,350.0,EAR,102.0,False,,False,
+late_asdescribed,afcd,M,fe_mg,4.18,6.0,EAR,70.0,True,45.0,False,0.0
+late_asdescribed,afcd,M,zn_mg,4.76,12.0,EAR,40.0,True,40.0,False,0.0
+late_asdescribed,afcd,M,i_ug,173.38,100.0,EAR,173.0,False,1100.0,False,0.0
+late_asdescribed,afcd,M,se_ug,43.1,60.0,EAR,72.0,True,400.0,False,0.0
+late_asdescribed,afcd,M,cu_mg,1.61,1.7,AI,95.0,True,10.0,False,0.0
+late_asdescribed,afcd,M,mn_mg,4.07,5.5,AI,74.0,True,,False,
+late_asdescribed,afcd,M,k_mg,6694.39,3800.0,AI,176.0,False,,False,
+late_asdescribed,afcd,,retinol_ug,229.59999999999997,,,,,3000.0,False,0.0
+late_asdescribed,afcd,,pufa_pctE,0.78,,Peat: as low as possible,,,,,
+late_asdescribed,afcd,,ca_p_ratio,0.7,0.5,Peat C03: P <= 2x Ca,,,,,
+late_asdescribed,afcd,,free_sugars_pctE,53.29,10.0,WHO < 10% E,,,,,
+late_asdescribed,afcd,,protein_pctE,11.74,25.0,AMDR 15-25% E,,,,,
+late_asdescribed,afcd,,kcal,1935.89,2629.0630975143404,EER M 31-50,,,,,
+late_asdescribed,usda,M,protein_g,53.47,52.0,EAR,103.0,False,,False,
+late_asdescribed,usda,M,fibre_g,18.49,30.0,AI,62.0,True,,False,
+late_asdescribed,usda,M,la_g,3.23,13.0,AI,25.0,True,,False,
+late_asdescribed,usda,M,ala_g,0.48,1.3,AI,37.0,True,,False,
+late_asdescribed,usda,M,lcn3_mg,38.5,160.0,AI,24.0,True,,False,
+late_asdescribed,usda,M,b1_mg,2.66,1.0,EAR,266.0,False,,False,
+late_asdescribed,usda,M,b2_mg,2.96,1.1,EAR,269.0,False,,False,
+late_asdescribed,usda,M,niacin_ne_mg,28.71,12.0,EAR,239.0,False,,False,
+late_asdescribed,usda,M,b6_mg,2.37,1.1,EAR,215.0,False,,False,
+late_asdescribed,usda,M,b12_ug,3.2,2.0,EAR,160.0,False,,False,
+late_asdescribed,usda,M,folate_dfe_ug,789.45,320.0,EAR,247.0,False,,False,
+late_asdescribed,usda,M,b5_mg,12.98,6.0,AI,216.0,False,,False,
+late_asdescribed,usda,M,vita_rae_ug,1442.91,625.0,EAR,231.0,False,,False,
+late_asdescribed,usda,M,vitc_mg,1102.58,30.0,EAR,3675.0,False,,False,
+late_asdescribed,usda,M,vitd_ug,1.41,5.0,AI,28.0,True,80.0,False,0.0
+late_asdescribed,usda,M,vite_mg,3.72,10.0,AI,37.0,True,,False,
+late_asdescribed,usda,M,vitk_ug,39.59,70.0,AI,57.0,True,,False,
+late_asdescribed,usda,M,choline_mg,490.08,550.0,AI,89.0,True,3500.0,False,0.0
+late_asdescribed,usda,M,ca_mg,973.93,840.0,EAR,116.0,False,2500.0,False,0.0
+late_asdescribed,usda,M,p_mg,1225.51,580.0,EAR,211.0,False,4000.0,False,0.0
+late_asdescribed,usda,M,mg_mg,422.91,350.0,EAR,121.0,False,,False,
+late_asdescribed,usda,M,fe_mg,9.05,6.0,EAR,151.0,False,45.0,False,0.0
+late_asdescribed,usda,M,zn_mg,6.53,12.0,EAR,54.0,True,40.0,False,0.0
+late_asdescribed,usda,M,i_ug,173.38,100.0,EAR,173.0,False,1100.0,False,0.0
+late_asdescribed,usda,M,se_ug,49.41,60.0,EAR,82.0,True,400.0,False,0.0
+late_asdescribed,usda,M,cu_mg,2.38,1.7,AI,140.0,False,10.0,False,0.0
+late_asdescribed,usda,M,mn_mg,1.8,5.5,AI,33.0,True,,False,
+late_asdescribed,usda,M,k_mg,7274.36,3800.0,AI,191.0,False,,False,
+late_asdescribed,usda,,retinol_ug,320.90000000000003,,,,,3000.0,False,0.0
+late_asdescribed,usda,,pufa_pctE,1.49,,Peat: as low as possible,,,,,
+late_asdescribed,usda,,ca_p_ratio,0.79,0.5,Peat C03: P <= 2x Ca,,,,,
+late_asdescribed,usda,,free_sugars_pctE,49.7,10.0,WHO < 10% E,,,,,
+late_asdescribed,usda,,protein_pctE,9.32,25.0,AMDR 15-25% E,,,,,
+late_asdescribed,usda,,kcal,2332.83,2629.0630975143404,EER M 31-50,,,,,
+late,usda,M,protein_g,53.47,52.0,EAR,103.0,False,,False,
+late,usda,M,fibre_g,18.49,30.0,AI,62.0,True,,False,
+late,usda,M,la_g,3.23,13.0,AI,25.0,True,,False,
+late,usda,M,ala_g,0.48,1.3,AI,37.0,True,,False,
+late,usda,M,lcn3_mg,38.5,160.0,AI,24.0,True,,False,
+late,usda,M,b1_mg,2.66,1.0,EAR,266.0,False,,False,
+late,usda,M,b2_mg,2.99,1.1,EAR,272.0,False,,False,
+late,usda,M,niacin_ne_mg,28.71,12.0,EAR,239.0,False,,False,
+late,usda,M,b6_mg,2.37,1.1,EAR,215.0,False,,False,
+late,usda,M,b12_ug,3.2,2.0,EAR,160.0,False,,False,
+late,usda,M,folate_dfe_ug,789.45,320.0,EAR,247.0,False,,False,
+late,usda,M,b5_mg,12.98,6.0,AI,216.0,False,,False,
+late,usda,M,vita_rae_ug,1442.91,625.0,EAR,231.0,False,,False,
+late,usda,M,vitc_mg,1102.58,30.0,EAR,3675.0,False,,False,
+late,usda,M,vitd_ug,1.41,5.0,AI,28.0,True,80.0,False,0.0
+late,usda,M,vite_mg,3.72,10.0,AI,37.0,True,,False,
+late,usda,M,vitk_ug,39.59,70.0,AI,57.0,True,,False,
+late,usda,M,choline_mg,490.08,550.0,AI,89.0,True,3500.0,False,0.0
+late,usda,M,ca_mg,975.74,840.0,EAR,116.0,False,2500.0,False,0.0
+late,usda,M,p_mg,1225.51,580.0,EAR,211.0,False,4000.0,False,0.0
+late,usda,M,mg_mg,422.91,350.0,EAR,121.0,False,,False,
+late,usda,M,fe_mg,9.14,6.0,EAR,152.0,False,45.0,False,0.0
+late,usda,M,zn_mg,6.55,12.0,EAR,55.0,True,40.0,False,0.0
+late,usda,M,i_ug,173.38,100.0,EAR,173.0,False,1100.0,False,0.0
+late,usda,M,se_ug,50.49,60.0,EAR,84.0,True,400.0,False,0.0
+late,usda,M,cu_mg,2.4,1.7,AI,141.0,False,10.0,False,0.0
+late,usda,M,mn_mg,1.8,5.5,AI,33.0,True,,False,
+late,usda,M,k_mg,7277.99,3800.0,AI,192.0,False,,False,
+late,usda,,retinol_ug,320.90000000000003,,,,,3000.0,False,0.0
+late,usda,,pufa_pctE,1.14,,Peat: as low as possible,,,,,
+late,usda,,ca_p_ratio,0.8,0.5,Peat C03: P <= 2x Ca,,,,,
+late,usda,,free_sugars_pctE,62.48,10.0,WHO < 10% E,,,,,
+late,usda,,protein_pctE,7.16,25.0,AMDR 15-25% E,,,,,
+late,usda,,kcal,3033.83,2629.0630975143404,EER M 31-50,,,,,
+late_woman,afcd,F,protein_g,55.94,37.0,EAR,151.0,False,,False,
+late_woman,afcd,F,fibre_g,20.27,25.0,AI,81.0,True,,False,
+late_woman,afcd,F,la_g,1.46,8.0,AI,18.0,True,,False,
+late_woman,afcd,F,ala_g,0.14,0.8,AI,18.0,True,,False,
+late_woman,afcd,F,lcn3_mg,41.76,90.0,AI,46.0,True,,False,
+late_woman,afcd,F,b1_mg,2.1,0.9,EAR,233.0,False,,False,
+late_woman,afcd,F,b2_mg,1.21,0.9,EAR,134.0,False,,False,
+late_woman,afcd,F,niacin_ne_mg,26.35,11.0,EAR,240.0,False,,False,
+late_woman,afcd,F,b6_mg,0.37,1.1,EAR,34.0,True,,False,
+late_woman,afcd,F,b12_ug,1.77,2.0,EAR,88.0,True,,False,
+late_woman,afcd,F,folate_dfe_ug,1135.12,320.0,EAR,355.0,False,,False,
+late_woman,afcd,F,b5_mg,11.13,4.0,AI,278.0,False,,False,
+late_woman,afcd,F,vita_rae_ug,2039.13,500.0,EAR,408.0,False,,False,
+late_woman,afcd,F,vitc_mg,1211.63,30.0,EAR,4039.0,False,,False,
+late_woman,afcd,F,vitd_ug,5.99,5.0,AI,120.0,False,80.0,False,0.0
+late_woman,afcd,F,vite_mg,4.06,7.0,AI,58.0,True,,False,
+late_woman,afcd,F,vitk_ug,39.59,60.0,AI,66.0,True,,False,
+late_woman,afcd,F,choline_mg,490.08,425.0,AI,115.0,False,3500.0,False,0.0
+late_woman,afcd,F,ca_mg,857.82,840.0,EAR,102.0,False,2500.0,False,0.0
+late_woman,afcd,F,p_mg,1217.42,580.0,EAR,210.0,False,4000.0,False,0.0
+late_woman,afcd,F,mg_mg,355.92,265.0,EAR,134.0,False,,False,
+late_woman,afcd,F,fe_mg,4.18,8.0,EAR,52.0,True,45.0,False,0.0
+late_woman,afcd,F,zn_mg,4.76,6.5,EAR,73.0,True,40.0,False,0.0
+late_woman,afcd,F,i_ug,173.38,100.0,EAR,173.0,False,1100.0,False,0.0
+late_woman,afcd,F,se_ug,43.1,50.0,EAR,86.0,True,400.0,False,0.0
+late_woman,afcd,F,cu_mg,1.61,1.2,AI,134.0,False,10.0,False,0.0
+late_woman,afcd,F,mn_mg,4.07,5.0,AI,81.0,True,,False,
+late_woman,afcd,F,k_mg,6695.39,2800.0,AI,239.0,False,,False,
+late_woman,afcd,,retinol_ug,229.59999999999997,,,,,3000.0,False,0.0
+late_woman,afcd,,pufa_pctE,0.71,,Peat: as low as possible,,,,,
+late_woman,afcd,,ca_p_ratio,0.7,0.5,Peat C03: P <= 2x Ca,,,,,
+late_woman,afcd,,free_sugars_pctE,58.03,10.0,WHO < 10% E,,,,,
+late_woman,afcd,,protein_pctE,10.68,25.0,AMDR 15-25% E,,,,,
+late_woman,afcd,,kcal,2127.15,2127.151051625239,EER F 31-50,,,,,
+late_woman,usda,F,protein_g,53.47,37.0,EAR,145.0,False,,False,
+late_woman,usda,F,fibre_g,18.49,25.0,AI,74.0,True,,False,
+late_woman,usda,F,la_g,3.23,8.0,AI,40.0,True,,False,
+late_woman,usda,F,ala_g,0.48,0.8,AI,60.0,True,,False,
+late_woman,usda,F,lcn3_mg,38.5,90.0,AI,43.0,True,,False,
+late_woman,usda,F,b1_mg,2.66,0.9,EAR,296.0,False,,False,
+late_woman,usda,F,b2_mg,2.97,0.9,EAR,330.0,False,,False,
+late_woman,usda,F,niacin_ne_mg,28.71,11.0,EAR,261.0,False,,False,
+late_woman,usda,F,b6_mg,2.37,1.1,EAR,215.0,False,,False,
+late_woman,usda,F,b12_ug,3.2,2.0,EAR,160.0,False,,False,
+late_woman,usda,F,folate_dfe_ug,789.45,320.0,EAR,247.0,False,,False,
+late_woman,usda,F,b5_mg,12.98,4.0,AI,324.0,False,,False,
+late_woman,usda,F,vita_rae_ug,1442.91,500.0,EAR,289.0,False,,False,
+late_woman,usda,F,vitc_mg,1102.58,30.0,EAR,3675.0,False,,False,
+late_woman,usda,F,vitd_ug,1.41,5.0,AI,28.0,True,80.0,False,0.0
+late_woman,usda,F,vite_mg,3.72,7.0,AI,53.0,True,,False,
+late_woman,usda,F,vitk_ug,39.59,60.0,AI,66.0,True,,False,
+late_woman,usda,F,choline_mg,490.08,425.0,AI,115.0,False,3500.0,False,0.0
+late_woman,usda,F,ca_mg,974.43,840.0,EAR,116.0,False,2500.0,False,0.0
+late_woman,usda,F,p_mg,1225.51,580.0,EAR,211.0,False,4000.0,False,0.0
+late_woman,usda,F,mg_mg,422.91,265.0,EAR,160.0,False,,False,
+late_woman,usda,F,fe_mg,9.08,8.0,EAR,114.0,False,45.0,False,0.0
+late_woman,usda,F,zn_mg,6.54,6.5,EAR,101.0,False,40.0,False,0.0
+late_woman,usda,F,i_ug,173.38,100.0,EAR,173.0,False,1100.0,False,0.0
+late_woman,usda,F,se_ug,49.71,50.0,EAR,99.0,True,400.0,False,0.0
+late_woman,usda,F,cu_mg,2.39,1.2,AI,199.0,False,10.0,False,0.0
+late_woman,usda,F,mn_mg,1.8,5.0,AI,36.0,True,,False,
+late_woman,usda,F,k_mg,7275.36,2800.0,AI,260.0,False,,False,
+late_woman,usda,,retinol_ug,320.90000000000003,,,,,3000.0,False,0.0
+late_woman,usda,,pufa_pctE,1.37,,Peat: as low as possible,,,,,
+late_woman,usda,,ca_p_ratio,0.8,0.5,Peat C03: P <= 2x Ca,,,,,
+late_woman,usda,,free_sugars_pctE,53.92,10.0,WHO < 10% E,,,,,
+late_woman,usda,,protein_pctE,8.6,25.0,AMDR 15-25% E,,,,,
+late_woman,usda,,kcal,2526.24,2127.151051625239,EER F 31-50,,,,,

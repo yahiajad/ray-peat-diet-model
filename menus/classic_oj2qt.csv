@@ -1,0 +1,127 @@
+day,meal,food,food_key,fdc_id,grams,is_juice,rule_id,note
+1,all,milk1,F005614,172205,1948.8,0,M01;M05,1% milk
+1,all,oj,F004739,169098,1967.7,1,M01,
+1,breakfast,egg_fried,F003718,173423,110.0,0,E01;M04,2 eggs
+1,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME: butter to fry egg
+1,snack,cheddar,F002414,170899,40.0,0,M09,ASSUME: no qty given
+1,dinner,gelatin,F004196,169599,10.0,0,M04;G02,ASSUME: gelatinous soup almost daily
+1,snack,carrot_raw,F002276,170393,100.0,0,K01;K03,one good-sized carrot
+1,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME: dressing
+1,snack,vinegar,F009498,173469,5.0,0,K01;K02,ASSUME: dressing
+1,dinner,mushroom,F005946,169252,100.0,0,K05,~1 cup cooked; raw values
+1,dinner,potato_boiled,F007320,170440,200.0,0,T01;T02,ASSUME: qty
+1,dinner,butter,F001973,173410,10.0,0,T02,ASSUME: 'a little butter'
+1,all,coffee,F003065,171890,800.0,0,F01,4 cups x 200 mL
+1,all,sugar,F008976,169655,40.0,0,S04,~3 tbsp
+1,snack,coconut_oil,F006163,171412,10.0,0,O02;O03,cooking/added
+1,all,mango,F005299,169910,200.0,0,S07,ASSUME: qty; ripe tropical
+1,all,salt,F007879,173468,5.0,0,N01,ASSUME: to taste
+1,dinner,lamb_liver,F005021,172532,170.0,0,L01,6 oz weekly
+2,all,milk1,F005614,172205,1948.8,0,M01;M05,1% milk
+2,all,oj,F004739,169098,1967.7,1,M01,
+2,breakfast,egg_fried,F003718,173423,110.0,0,E01;M04,2 eggs
+2,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME: butter to fry egg
+2,snack,cheddar,F002414,170899,40.0,0,M09,ASSUME: no qty given
+2,dinner,gelatin,F004196,169599,10.0,0,M04;G02,ASSUME: gelatinous soup almost daily
+2,snack,carrot_raw,F002276,170393,100.0,0,K01;K03,one good-sized carrot
+2,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME: dressing
+2,snack,vinegar,F009498,173469,5.0,0,K01;K02,ASSUME: dressing
+2,dinner,mushroom,F005946,169252,100.0,0,K05,~1 cup cooked; raw values
+2,dinner,potato_boiled,F007320,170440,200.0,0,T01;T02,ASSUME: qty
+2,dinner,butter,F001973,173410,10.0,0,T02,ASSUME: 'a little butter'
+2,all,coffee,F003065,171890,800.0,0,F01,4 cups x 200 mL
+2,all,sugar,F008976,169655,40.0,0,S04,~3 tbsp
+2,snack,coconut_oil,F006163,171412,10.0,0,O02;O03,cooking/added
+2,all,pineapple,F006702,169124,200.0,0,S07,ASSUME: qty; ripe tropical
+2,all,salt,F007879,173468,5.0,0,N01,ASSUME: to taste
+2,dinner,beef_rump,F000738,168634,100.0,0,C07,ASSUME: qty; milk preferred over meat
+3,all,milk1,F005614,172205,1948.8,0,M01;M05,1% milk
+3,all,oj,F004739,169098,1967.7,1,M01,
+3,breakfast,egg_fried,F003718,173423,110.0,0,E01;M04,2 eggs
+3,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME: butter to fry egg
+3,snack,cheddar,F002414,170899,40.0,0,M09,ASSUME: no qty given
+3,dinner,gelatin,F004196,169599,10.0,0,M04;G02,ASSUME: gelatinous soup almost daily
+3,snack,carrot_raw,F002276,170393,100.0,0,K01;K03,one good-sized carrot
+3,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME: dressing
+3,snack,vinegar,F009498,173469,5.0,0,K01;K02,ASSUME: dressing
+3,dinner,mushroom,F005946,169252,100.0,0,K05,~1 cup cooked; raw values
+3,dinner,potato_boiled,F007320,170440,200.0,0,T01;T02,ASSUME: qty
+3,dinner,butter,F001973,173410,10.0,0,T02,ASSUME: 'a little butter'
+3,all,coffee,F003065,171890,800.0,0,F01,4 cups x 200 mL
+3,all,sugar,F008976,169655,40.0,0,S04,~3 tbsp
+3,snack,coconut_oil,F006163,171412,10.0,0,O02;O03,cooking/added
+3,all,watermelon,F005520,167765,200.0,0,S07,ASSUME: qty; ripe tropical
+3,all,salt,F007879,173468,5.0,0,N01,ASSUME: to taste
+3,dinner,prawn,F007432,171971,100.0,0,I09;I06,shellfish sub for meat
+4,all,milk1,F005614,172205,1948.8,0,M01;M05,1% milk
+4,all,oj,F004739,169098,1967.7,1,M01,
+4,breakfast,egg_fried,F003718,173423,110.0,0,E01;M04,2 eggs
+4,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME: butter to fry egg
+4,snack,cheddar,F002414,170899,40.0,0,M09,ASSUME: no qty given
+4,dinner,gelatin,F004196,169599,10.0,0,M04;G02,ASSUME: gelatinous soup almost daily
+4,snack,carrot_raw,F002276,170393,100.0,0,K01;K03,one good-sized carrot
+4,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME: dressing
+4,snack,vinegar,F009498,173469,5.0,0,K01;K02,ASSUME: dressing
+4,dinner,mushroom,F005946,169252,100.0,0,K05,~1 cup cooked; raw values
+4,dinner,potato_boiled,F007320,170440,200.0,0,T01;T02,ASSUME: qty
+4,dinner,butter,F001973,173410,10.0,0,T02,ASSUME: 'a little butter'
+4,all,coffee,F003065,171890,800.0,0,F01,4 cups x 200 mL
+4,all,sugar,F008976,169655,40.0,0,S04,~3 tbsp
+4,snack,coconut_oil,F006163,171412,10.0,0,O02;O03,cooking/added
+4,all,papaya,F006528,169926,200.0,0,S07,ASSUME: qty; ripe tropical
+4,all,salt,F007879,173468,5.0,0,N01,ASSUME: to taste
+4,dinner,oyster,F006285,171978,100.0,0,V07;M04,weekly
+5,all,milk1,F005614,172205,1948.8,0,M01;M05,1% milk
+5,all,oj,F004739,169098,1967.7,1,M01,
+5,breakfast,egg_fried,F003718,173423,110.0,0,E01;M04,2 eggs
+5,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME: butter to fry egg
+5,snack,cheddar,F002414,170899,40.0,0,M09,ASSUME: no qty given
+5,dinner,gelatin,F004196,169599,10.0,0,M04;G02,ASSUME: gelatinous soup almost daily
+5,snack,carrot_raw,F002276,170393,100.0,0,K01;K03,one good-sized carrot
+5,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME: dressing
+5,snack,vinegar,F009498,173469,5.0,0,K01;K02,ASSUME: dressing
+5,dinner,mushroom,F005946,169252,100.0,0,K05,~1 cup cooked; raw values
+5,dinner,potato_boiled,F007320,170440,200.0,0,T01;T02,ASSUME: qty
+5,dinner,butter,F001973,173410,10.0,0,T02,ASSUME: 'a little butter'
+5,all,coffee,F003065,171890,800.0,0,F01,4 cups x 200 mL
+5,all,sugar,F008976,169655,40.0,0,S04,~3 tbsp
+5,snack,coconut_oil,F006163,171412,10.0,0,O02;O03,cooking/added
+5,all,cherry,F002522,171719,200.0,0,S07,ASSUME: qty; ripe tropical
+5,all,salt,F007879,173468,5.0,0,N01,ASSUME: to taste
+5,dinner,beef_rump,F000738,168634,100.0,0,C07,ASSUME: qty; milk preferred over meat
+6,all,milk1,F005614,172205,1948.8,0,M01;M05,1% milk
+6,all,oj,F004739,169098,1967.7,1,M01,
+6,breakfast,egg_fried,F003718,173423,110.0,0,E01;M04,2 eggs
+6,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME: butter to fry egg
+6,snack,cheddar,F002414,170899,40.0,0,M09,ASSUME: no qty given
+6,dinner,gelatin,F004196,169599,10.0,0,M04;G02,ASSUME: gelatinous soup almost daily
+6,snack,carrot_raw,F002276,170393,100.0,0,K01;K03,one good-sized carrot
+6,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME: dressing
+6,snack,vinegar,F009498,173469,5.0,0,K01;K02,ASSUME: dressing
+6,dinner,mushroom,F005946,169252,100.0,0,K05,~1 cup cooked; raw values
+6,dinner,potato_boiled,F007320,170440,200.0,0,T01;T02,ASSUME: qty
+6,dinner,butter,F001973,173410,10.0,0,T02,ASSUME: 'a little butter'
+6,all,coffee,F003065,171890,800.0,0,F01,4 cups x 200 mL
+6,all,sugar,F008976,169655,40.0,0,S04,~3 tbsp
+6,snack,coconut_oil,F006163,171412,10.0,0,O02;O03,cooking/added
+6,all,grape,F004260,174683,200.0,0,S07,ASSUME: qty; ripe tropical
+6,all,salt,F007879,173468,5.0,0,N01,ASSUME: to taste
+6,dinner,beef_rump,F000738,168634,100.0,0,C07,ASSUME: qty; milk preferred over meat
+7,all,milk1,F005614,172205,1948.8,0,M01;M05,1% milk
+7,all,oj,F004739,169098,1967.7,1,M01,
+7,breakfast,egg_fried,F003718,173423,110.0,0,E01;M04,2 eggs
+7,breakfast,butter,F001973,173410,5.0,0,M04,ASSUME: butter to fry egg
+7,snack,cheddar,F002414,170899,40.0,0,M09,ASSUME: no qty given
+7,dinner,gelatin,F004196,169599,10.0,0,M04;G02,ASSUME: gelatinous soup almost daily
+7,snack,carrot_raw,F002276,170393,100.0,0,K01;K03,one good-sized carrot
+7,snack,coconut_oil,F006163,171412,5.0,0,K02,ASSUME: dressing
+7,snack,vinegar,F009498,173469,5.0,0,K01;K02,ASSUME: dressing
+7,dinner,mushroom,F005946,169252,100.0,0,K05,~1 cup cooked; raw values
+7,dinner,potato_boiled,F007320,170440,200.0,0,T01;T02,ASSUME: qty
+7,dinner,butter,F001973,173410,10.0,0,T02,ASSUME: 'a little butter'
+7,all,coffee,F003065,171890,800.0,0,F01,4 cups x 200 mL
+7,all,sugar,F008976,169655,40.0,0,S04,~3 tbsp
+7,snack,coconut_oil,F006163,171412,10.0,0,O02;O03,cooking/added
+7,all,mango,F005299,169910,200.0,0,S07,ASSUME: qty; ripe tropical
+7,all,salt,F007879,173468,5.0,0,N01,ASSUME: to taste
+7,dinner,beef_rump,F000738,168634,100.0,0,C07,ASSUME: qty; milk preferred over meat
