@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this code or codebook, please cite it as below."
+title: "The diet Ray Peat described: nutrient adequacy model (code, codebook and outputs)"
+authors:
+  - family-names: Jadallah
+    given-names: Yahia
+    orcid: "https://orcid.org/0009-0001-7196-219X"
+    affiliation: "Independent researcher, Perth, Western Australia"
+repository-code: "https://github.com/yahiajad/ray-peat-diet-model"
+license: MIT
+date-released: "2026-10-03"
+keywords: [nutrition, nutrient adequacy, diet modelling, Ray Peat, food composition]

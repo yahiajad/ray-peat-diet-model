@@ -1,5 +1,7 @@
 # The diet Ray Peat described: nutrient adequacy model
 
+**Status:** the manuscript was submitted to *Nutrition & Dietetics* on 3 October 2026, and a preprint is with medRxiv (MEDRXIV/2026/364619, awaiting screening). Links will be added once it is posted.
+
 Code and data for a modelling study of the diet the biologist Raymond Peat (1936–2022) recommended. The study assesses two eras of his advice against his own stated targets and against the Australian and New Zealand Nutrient Reference Values (NRVs).
 
 - **Codebook:** `codebook/` holds 94 dietary rules taken only from Peat's own articles and interview transcripts. Each rule has a verbatim quotation and its source URL.
