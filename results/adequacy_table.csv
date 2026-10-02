@@ -713,6 +713,74 @@ late_asdescribed,usda,,ca_p_ratio,0.79,0.5,Peat C03: P <= 2x Ca,,,,,
 late_asdescribed,usda,,free_sugars_pctE,49.7,10.0,WHO < 10% E,,,,,
 late_asdescribed,usda,,protein_pctE,9.32,25.0,AMDR 15-25% E,,,,,
 late_asdescribed,usda,,kcal,2332.83,2629.0630975143404,EER M 31-50,,,,,
+late_milk1l,afcd,M,protein_g,73.43,52.0,EAR,141.0,False,,False,
+late_milk1l,afcd,M,fibre_g,20.27,30.0,AI,68.0,True,,False,
+late_milk1l,afcd,M,la_g,1.57,13.0,AI,12.0,True,,False,
+late_milk1l,afcd,M,ala_g,0.19,1.3,AI,15.0,True,,False,
+late_milk1l,afcd,M,lcn3_mg,41.76,160.0,AI,26.0,True,,False,
+late_milk1l,afcd,M,b1_mg,2.21,1.0,EAR,221.0,False,,False,
+late_milk1l,afcd,M,b2_mg,2.12,1.1,EAR,193.0,False,,False,
+late_milk1l,afcd,M,niacin_ne_mg,35.94,12.0,EAR,300.0,False,,False,
+late_milk1l,afcd,M,b6_mg,0.43,1.1,EAR,39.0,True,,False,
+late_milk1l,afcd,M,b12_ug,2.83,2.0,EAR,142.0,False,,False,
+late_milk1l,afcd,M,folate_dfe_ug,1161.62,320.0,EAR,363.0,False,,False,
+late_milk1l,afcd,M,b5_mg,13.25,6.0,AI,221.0,False,,False,
+late_milk1l,afcd,M,vita_rae_ug,2113.33,625.0,EAR,338.0,False,,False,
+late_milk1l,afcd,M,vitc_mg,1211.63,30.0,EAR,4039.0,False,,False,
+late_milk1l,afcd,M,vitd_ug,6.41,5.0,AI,128.0,False,80.0,False,0.0
+late_milk1l,afcd,M,vite_mg,4.17,10.0,AI,42.0,True,,False,
+late_milk1l,afcd,M,vitk_ug,40.65,70.0,AI,58.0,True,,False,
+late_milk1l,afcd,M,choline_mg,577.0,550.0,AI,105.0,False,3500.0,False,0.0
+late_milk1l,afcd,M,ca_mg,1468.04,840.0,EAR,175.0,False,2500.0,False,0.0
+late_milk1l,afcd,M,p_mg,1705.02,580.0,EAR,294.0,False,4000.0,False,0.0
+late_milk1l,afcd,M,mg_mg,414.22,350.0,EAR,118.0,False,,False,
+late_milk1l,afcd,M,fe_mg,4.24,6.0,EAR,71.0,True,45.0,False,0.0
+late_milk1l,afcd,M,zn_mg,6.72,12.0,EAR,56.0,True,40.0,False,0.0
+late_milk1l,afcd,M,i_ug,309.06,100.0,EAR,309.0,False,1100.0,False,0.0
+late_milk1l,afcd,M,se_ug,46.81,60.0,EAR,78.0,True,400.0,False,0.0
+late_milk1l,afcd,M,cu_mg,1.64,1.7,AI,96.0,True,10.0,False,0.0
+late_milk1l,afcd,M,mn_mg,4.08,5.5,AI,74.0,True,,False,
+late_milk1l,afcd,M,k_mg,7523.61,3800.0,AI,198.0,False,,False,
+late_milk1l,afcd,,retinol_ug,298.5,,,,,3000.0,False,0.0
+late_milk1l,afcd,,pufa_pctE,0.63,,Peat: as low as possible,,,,,
+late_milk1l,afcd,,ca_p_ratio,0.86,0.5,Peat C03: P <= 2x Ca,,,,,
+late_milk1l,afcd,,free_sugars_pctE,57.97,10.0,WHO < 10% E,,,,,
+late_milk1l,afcd,,protein_pctE,11.35,25.0,AMDR 15-25% E,,,,,
+late_milk1l,afcd,,kcal,2629.09,2629.0630975143404,EER M 31-50,,,,,
+late_milk1l,usda,M,protein_g,70.96,52.0,EAR,136.0,False,,False,
+late_milk1l,usda,M,fibre_g,18.49,30.0,AI,62.0,True,,False,
+late_milk1l,usda,M,la_g,3.56,13.0,AI,27.0,True,,False,
+late_milk1l,usda,M,ala_g,0.53,1.3,AI,41.0,True,,False,
+late_milk1l,usda,M,lcn3_mg,38.5,160.0,AI,24.0,True,,False,
+late_milk1l,usda,M,b1_mg,2.87,1.0,EAR,287.0,False,,False,
+late_milk1l,usda,M,b2_mg,3.96,1.1,EAR,360.0,False,,False,
+late_milk1l,usda,M,niacin_ne_mg,32.91,12.0,EAR,274.0,False,,False,
+late_milk1l,usda,M,b6_mg,2.57,1.1,EAR,234.0,False,,False,
+late_milk1l,usda,M,b12_ug,6.01,2.0,EAR,300.0,False,,False,
+late_milk1l,usda,M,folate_dfe_ug,815.95,320.0,EAR,255.0,False,,False,
+late_milk1l,usda,M,b5_mg,14.87,6.0,AI,248.0,False,,False,
+late_milk1l,usda,M,vita_rae_ug,1591.31,625.0,EAR,255.0,False,,False,
+late_milk1l,usda,M,vitc_mg,1103.64,30.0,EAR,3679.0,False,,False,
+late_milk1l,usda,M,vitd_ug,1.41,5.0,AI,28.0,True,80.0,False,0.0
+late_milk1l,usda,M,vite_mg,3.88,10.0,AI,39.0,True,,False,
+late_milk1l,usda,M,vitk_ug,40.65,70.0,AI,58.0,True,,False,
+late_milk1l,usda,M,choline_mg,577.0,550.0,AI,105.0,False,3500.0,False,0.0
+late_milk1l,usda,M,ca_mg,1611.14,840.0,EAR,192.0,False,2500.0,False,0.0
+late_milk1l,usda,M,p_mg,1713.11,580.0,EAR,295.0,False,4000.0,False,0.0
+late_milk1l,usda,M,mg_mg,481.21,350.0,EAR,137.0,False,,False,
+late_milk1l,usda,M,fe_mg,9.22,6.0,EAR,154.0,False,45.0,False,0.0
+late_milk1l,usda,M,zn_mg,9.09,12.0,EAR,76.0,True,40.0,False,0.0
+late_milk1l,usda,M,i_ug,309.06,100.0,EAR,309.0,False,1100.0,False,0.0
+late_milk1l,usda,M,se_ug,63.38,60.0,EAR,106.0,False,400.0,False,0.0
+late_milk1l,usda,M,cu_mg,2.42,1.7,AI,142.0,False,10.0,False,0.0
+late_milk1l,usda,M,mn_mg,1.88,5.5,AI,34.0,True,,False,
+late_milk1l,usda,M,k_mg,8018.79,3800.0,AI,211.0,False,,False,
+late_milk1l,usda,,retinol_ug,464.0,,,,,3000.0,False,0.0
+late_milk1l,usda,,pufa_pctE,1.24,,Peat: as low as possible,,,,,
+late_milk1l,usda,,ca_p_ratio,0.94,0.5,Peat C03: P <= 2x Ca,,,,,
+late_milk1l,usda,,free_sugars_pctE,53.85,10.0,WHO < 10% E,,,,,
+late_milk1l,usda,,protein_pctE,9.4,25.0,AMDR 15-25% E,,,,,
+late_milk1l,usda,,kcal,3067.98,2629.0630975143404,EER M 31-50,,,,,
 late,usda,M,protein_g,53.47,52.0,EAR,103.0,False,,False,
 late,usda,M,fibre_g,18.49,30.0,AI,62.0,True,,False,
 late,usda,M,la_g,3.23,13.0,AI,25.0,True,,False,

@@ -31,6 +31,7 @@ A clean rebuild from fresh downloads reproduces `results/` byte for byte.
 | `classic_greens` | Plus his cooked-greens advice |
 | `classic_supps` | Plus his vitamin E 100 mg/day |
 | `classic_nogelatin` | Without gelatin (for the glycine:methionine comparison) |
+| `late_milk1l` | Late scenario with 1 L milk instead of 500 mL |
 
 ## Licence
 

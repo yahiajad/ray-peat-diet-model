@@ -98,11 +98,11 @@ def classic(milk_qt=2, oj_qt=1, salt_g=5, salt="salt", liver="lamb_liver", green
     return pd.DataFrame(rows)
 
 
-def late(oj_qt=2, salt_g=5, salt="salt", eer_kj=11000):
+def late(oj_qt=2, salt_g=5, salt="salt", eer_kj=11000, milk_g=500):
     rows = []
     for d in range(1, 8):
         rows += [
-            row(d, "all", "milk1", 500, "M07", "ASSUME: 'somewhat limit'"),
+            row(d, "all", "milk1", milk_g, "M07", "ASSUME: 'somewhat limit'"),
             row(d, "all", "oj", QT_JUICE * oj_qt, "S06", "OJ (+grape juice not in AFCD)"),
             row(d, "all", "sugar", 120, "S06;P06b", "ASSUME: to reach ~400 g carb"),
             row(d, "breakfast", "egg_fried", 55, "M07", "1 egg"),
@@ -143,6 +143,7 @@ SCENARIOS = {
     # reference woman 31-50: EER 8.9 MJ. Classic scaled from the man's 11.0 MJ basis; Late topped up to 8.9 MJ
     "classic_woman": scaled(classic(), 8.9 / 11.0),
     "late_woman": late(eer_kj=8900),
+    "late_milk1l": late(milk_g=1030),
 }
 
 if __name__ == "__main__":
